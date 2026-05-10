@@ -115,13 +115,7 @@
     </section>
 
     <!-- Footer -->
-    <div id="footer"></div>
-    <script>
-        fetch('footer.html')
-            .then(response => response.text())
-            .then(data => document.getElementById('footer').innerHTML = data)
-            .catch(error => console.error('Error loading footer:', error));
-    </script>
+    <?php include 'footer.html'; ?>
 
     <!-- Scripts -->
     <script src="js/jquery.min.js"></script>
@@ -141,4 +135,5 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+
 

@@ -271,13 +271,7 @@
 
 
 
-    <div id="footer"></div>
-<script>
-  fetch('footer.html')
-    .then(response => response.text())
-    .then(data => document.getElementById('footer').innerHTML = data)
-    .catch(error => console.error('Error loading footer:', error));
-</script>
+    <?php include 'footer.html'; ?>
   
 
   <!-- loader -->
@@ -302,4 +296,5 @@
   <script src="js/main.js"></script>
     </body>
 </html>
+
 
