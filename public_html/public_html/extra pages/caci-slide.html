@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CACI Slide Show</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="../main.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">CACI Treatment Slide Show</h1>
+        <div class="owl-carousel owl-theme">
+            <div class="item"><img src="../images/caci-hands.jpg" alt="CACI Hands 1"></div>
+            <div class="item"><img src="../images/caci-hands2.jpg" alt="CACI Hands 2"></div>
+            <div class="item"><img src="../images/caci-hands3.jpg" alt="CACI Hands 3"></div>
+            <div class="item"><img src="../images/caci-hands4.jpg" alt="CACI Hands 4"></div>
+            <div class="item"><img src="../images/caci-hands5.jpg" alt="CACI Hands 5"></div>
+            <div class="item"><img src="../images/caci-" alt="CACI Hands 6"></div>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function(){
+            $(".owl-carousel").owlCarousel({
+                loop: true,
+                margin: 10,
+                nav: true,
+                autoplay: true,
+                autoplayTimeout: 3000,
+                autoplayHoverPause: true,
+                responsive: {
+                    0: { items: 1 },
+                    600: { items: 2 },
+                    1000: { items: 3 }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

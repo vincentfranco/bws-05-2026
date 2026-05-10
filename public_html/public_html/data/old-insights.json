@@ -1,0 +1,146 @@
+[
+    {
+        "title": "3D Lipo Cryolipolisis Treatment Insights",
+        "description": "Learn about pre- and post-care for 3D Lipo Cryolipolisis treatment.",
+        "image": "images/bg_3.jpg",
+        "link": "3d-lipo-cryolipolysis-insights.html",
+        "tags": ["3D Lipo", "Cryolipolisis", "Treatment"],
+        "category": "Contouring"
+    },
+    {
+        "title": "3D Lipo Treatment Insights",
+        "description": "Learn about pre- and post-care for 3D Lipo treatments.",
+        "image": "images/bg_1.jpg",
+        "link": "3d-lipo-treatment-insights.html",
+        "tags": ["3D Lipo", "Treatment"],
+        "category": "Contouring"
+    },
+    {
+        "title": "RF Fat Melting Treatment Insights",
+        "description": "Learn about pre- and post-care for RF Fat Melting treatments.",
+        "image": "images/bg_1.jpg",
+        "link": "rf-fat-melting-treatment-insights.html",
+        "tags": ["RF Fat Melting", "Treatment"],
+        "category": "Contouring"
+    },
+    {
+        "title": "Swedish Massage Deep Tissue Therapy Insights",
+        "description": "Learn about pre- and post-care for Swedish Massage Deep Tissue Therapy.",
+        "image": "images/bg_2.jpg",
+        "link": "swedish-deep-tissue-massage-therapy-insights.html",
+        "tags": ["Swedish Massage", "Deep Tissue", "Therapy"],
+        "category": "Massage"
+    },
+    {
+        "title": "Bamboo Massage Insights",
+        "description": "Learn about pre- and post-care for Bamboo Massage therapy.",
+        "image": "images/bg_3.jpg",
+        "link": "bamboo-massage-therapy-insights.html",
+        "tags": ["Bamboo Massage", "Therapy"],
+        "category": "Massage"
+    },
+    {
+        "title": "Hot Stone Massage Insights",
+        "description": "Learn about pre- and post-care for Hot Stone Massage therapy.",
+        "image": "images/bg_1.jpg",
+        "link": "hot-stone-massage-therapy-insights.html",
+        "tags": ["Hot Stone Massage", "Therapy"],
+        "category": "Massage"
+    },
+    {
+        "title": "CACI Eye Revive Treatment Insights",
+        "description": "Learn about pre- and post-care for CACI Eye Revive treatments.",
+        "image": "images/bg_2.jpg",
+        "link": "caci-eye-revive-treatment-insights.html",
+        "tags": ["CACI", "Eye Revive", "Treatment"],
+        "category": "CACI"
+    },
+    {
+        "title": "CACI Jowl Lift Treatment Insights",
+        "description": "Learn about pre- and post-care for CACI Jowl Lift treatments.",
+        "image": "images/bg_2.jpg",
+        "link": "caci-jowl-lift-treatment-insights.html",
+        "tags": ["CACI", "Jowl Lift", "Treatment"],
+        "category": "CACI"
+    },
+    {
+        "title": "iS Clinical Harmony Facial Insights",
+        "description": "Learn about pre- and post-care for iS Clinical Harmony Facial treatments.",
+        "image": "images/bg_1.jpg",
+        "link": "is-clinical-harmony-facial-treatment-insights.html",
+        "tags": ["iS Clinical", "Harmony Facial", "Treatment"],
+        "category": "iS-Clinical"
+    },
+    {
+        "title": "iS Clinical Cancer Care Facial Insights",
+        "description": "Learn about pre- and post-care for iS Clinical Cancer Care Facial treatments.",
+        "image": "images/bg_3.jpg",
+        "link": "is-clinical-cancer-care-facial-treatment-insights.html",
+        "tags": ["iS Clinical", "Cancer Care", "Facial", "Treatment"],
+        "category": "iS-Clinicals"
+    },
+    {
+        "title": "Laser Rosacea Treatment Insights",
+        "description": "Learn about pre- and post-care for Laser Rosacea treatments.",
+        "image": "images/bg_2.jpg",
+        "link": "laser-rosacea-treatment-insights.html",
+        "tags": ["Laser", "Rosacea", "Treatment"],
+        "category": "Laser"
+    },
+    {
+        "title": "Laser Acne Treatment Insights",
+        "description": "Learn about pre- and post-care for Laser Acne treatments.",
+        "image": "images/bg_1.jpg",
+        "link": "laser-acne-treatment-insights.html",
+        "tags": ["Laser", "Acne", "Treatment"],
+        "category": "Laser"
+    },
+    {
+        "title": "Laser Skin Rejuvenation Insights",
+        "description": "Learn about pre- and post-care for Laser Skin Rejuvenation treatments.",
+        "image": "images/bg_3.jpg",
+        "link": "laser-skin-rejuvenation-treatment-insights.html",
+        "tags": ["Laser", "Skin Rejuvenation", "Treatment"],
+        "category": "Laser"
+    },
+    {
+        "title": "iS Clinical Champagne Enzyme Facial Insights",
+        "description": "Learn about pre- and post-care for iS Clinical Champagne Enzyme Facial treatments.",
+        "image": "images/bg_2.jpg",
+        "link": "is-clinical-champagne-enzyme-facial-treatment-insights.html",
+        "tags": ["iS Clinical", "Champagne Enzyme", "Facial", "Treatment"],
+        "category": "iS-Clinical"
+    },
+    {
+        "title": "iS Clinical Deep Cleansing Facial Insights",
+        "description": "Learn about pre- and post-care for iS Clinical Deep Cleansing Facial treatments.",
+        "image": "images/bg_3.jpg",
+        "link": "is-clinical-deep-cleansing-facial-treatment-insights.html",
+        "tags": ["iS Clinical", "Deep Cleansing", "Facial", "Treatment"],
+        "category": "Treatment Insights"
+    },
+    {
+        "title": "iS Clinical Fire and Ice Facial Insights",
+        "description": "Learn about pre- and post-care for iS Clinical Fire and Ice Facial treatments.",
+        "image": "images/bg_1.jpg",
+        "link": "is-clinical-fire-and-ice-treatment-insights.html",
+        "tags": ["iS Clinical", "Fire and Ice", "Facial", "Treatment"],
+        "category": "iS-Clinical"
+    },
+    {
+        "title": "Déesse Mask LED Therapy Treatment Insights",
+        "description": "Learn about pre- and post-care for Déesse Mask LED Therapy treatments.",
+        "image": "images/bg_2.jpg",
+        "link": "déesse-mask-led-therapy-treatment-insights.html",
+        "tags": ["Déesse Mask", "LED Therapy", "Treatment"],
+        "category": "Déesse"
+    },
+    {
+        "title": "Waxing Hair Removal Insights",
+        "description": "Learn about pre- and post-care for Waxing Hair Removal treatments.",
+        "image": "images/bg_2.jpg",
+        "link": "waxing-hair-removal-insights.html",
+        "tags": ["Waxing", "Hair Removal", "Treatment"],
+        "category": "Hair Removal"
+    }
+]
