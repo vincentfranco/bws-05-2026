@@ -138,6 +138,9 @@
 							</div>
 					  </div>
 						  <div class="form-group">
+							<input type="text" class="form-control" placeholder="Your Phone Number">
+						  </div>
+						  <div class="form-group">
 							<input type="text" class="form-control" placeholder="Subject">
 						  </div>
 						  <div class="form-group">
@@ -178,6 +181,58 @@
 
   <script src="js/main.js"></script>
     
+  <script>
+    document.querySelector('.contact-form').addEventListener('submit', function(e) {
+      const name = document.querySelector('input[placeholder="Your Name"]').value.trim();
+      const email = document.querySelector('input[placeholder="Your Email"]').value.trim();
+      const phone = document.querySelector('input[placeholder="Your Phone Number"]').value.trim();
+      const message = document.querySelector('textarea').value.trim();
+      
+      // Check all required fields are present
+      if (!name || !email || !phone || !message) {
+        alert('Please fill in all required fields: Name, Email, Phone Number, and Message.');
+        e.preventDefault();
+        return;
+      }
+      
+      // Email validation
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      if (!emailRegex.test(email)) {
+        alert('Please enter a valid email address.');
+        e.preventDefault();
+        return;
+      }
+      
+      // Phone validation (basic: allows digits, spaces, dashes, parentheses, optional +)
+      const phoneRegex = /^\+?[\d\s\-\(\)]{10,15}$/;
+      if (!phoneRegex.test(phone)) {
+        alert('Please enter a valid phone number (e.g., +44 123 456 7890).');
+        e.preventDefault();
+        return;
+      }
+      
+      // Message validation: meaningful (min 10 chars) and no junk/profanity
+      if (message.length < 10) {
+        alert('Please provide a meaningful message (at least 10 characters).');
+        e.preventDefault();
+        return;
+      }
+      
+      const badWords = ['fuck', 'shit', 'damn', 'bitch', 'asshole', 'bastard', 'crap', 'piss', 'dick', 'pussy', 'cunt', 'nigger', 'faggot', 'retard', 'spam', 'garbage', 'test', 'asdf', 'qwerty'];
+      const messageLower = message.toLowerCase();
+      for (let word of badWords) {
+        if (messageLower.includes(word)) {
+          alert('Your message contains inappropriate or junk content. Please revise and try again.');
+          e.preventDefault();
+          return;
+        }
+      }
+      
+      // If all validations pass, allow submission (but since action="#", it won't submit; for future PHP handler)
+      alert('Form validated successfully! (Note: Submission not implemented yet - contact admin directly.)');
+      e.preventDefault(); // Remove this when adding PHP handler
+    });
+  </script>
     
   </body>
 </html>
