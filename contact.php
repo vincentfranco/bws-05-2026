@@ -9,6 +9,13 @@
     <meta name="author" content="Beauty With Christina">
     <meta name="robots" content="index, follow">
 
+    <!-- Open Graph for Social Media Sharing -->
+    <meta property="og:title" content="Contact Beauty With Christina - Eastbourne Beauty Treatments">
+    <meta property="og:description" content="Get in touch with Beauty With Christina for inquiries about our beauty treatments, laser hair removal, body contouring, and anti-ageing services in Eastbourne.">
+    <meta property="og:image" content="https://beautywithchristina.co.uk/images/contact.jpg">
+    <meta property="og:url" content="https://beautywithchristina.co.uk/contact.php">
+    <meta name="twitter:card" content="summary_large_image">
+
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" rel="stylesheet">
 
@@ -61,7 +68,6 @@
 	
 	  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
-		 <script src="js/google-map.js"></script>
 	
 	<!-- Google tag (gtag.js) -->
 

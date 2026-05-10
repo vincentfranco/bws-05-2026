@@ -9,6 +9,13 @@
     <meta name="author" content="Beauty With Christina">
     <meta name="robots" content="index, follow">
 
+    <!-- Open Graph for Social Media Sharing -->
+    <meta property="og:title" content="Pricing for Beauty Treatments at Beauty With Christina">
+    <meta property="og:description" content="Discover the pricing for our beauty treatments at Beauty With Christina in Eastbourne. Affordable options for laser hair removal, body contouring, and anti-ageing solutions.">
+    <meta property="og:image" content="https://beautywithchristina.co.uk/images/pricing.jpg">
+    <meta property="og:url" content="https://beautywithchristina.co.uk/price-list.php">
+    <meta name="twitter:card" content="summary_large_image">
+
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Prata&display=swap" rel="stylesheet">

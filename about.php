@@ -5,8 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Learn about Beauty with Christina, offering expert beauty and aesthetic treatments including non-surgical facelifts and anti-ageing therapies in Hampden Park, Eastbourne.">
+    <meta name="keywords" content="Beauty with Christina, non-surgical facelifts, anti-ageing treatments, Eastbourne, Hampden Park">
     
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" rel="stylesheet">
+    <!-- Open Graph for Social Media Sharing -->
+    <meta property="og:title" content="About Beauty With Christina - Anti-Ageing Treatments in Eastbourne">
+    <meta property="og:description" content="Learn about Beauty with Christina, offering expert beauty and aesthetic treatments including non-surgical facelifts and anti-ageing therapies in Hampden Park, Eastbourne.">
+    <meta property="og:image" content="https://beautywithchristina.co.uk/images/christina-franco.jpg">
+    <meta property="og:url" content="https://beautywithchristina.co.uk/about.php">
+    <meta name="twitter:card" content="summary_large_image">
     <link href="https://fonts.googleapis.com/css?family=Prata&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
