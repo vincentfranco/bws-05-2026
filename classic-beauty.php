@@ -44,14 +44,14 @@
           "addressRegion": "East Sussex",
           "postalCode": "BN22 9QD"
         },
-        "telephone": "+44 (0) 1323 507 506",
-        "email": "bookings@beautywithchristina.co.uk",
+        "telephone": "+44 1323 507506",
+        "email": "info@beautywithchristina.co.uk",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 50.7707392,
           "longitude": 0.278528
         },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+        "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"]
       },
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
@@ -120,7 +120,7 @@
                   <p>Our professional manicure shapes and nourishes nails while softening cuticles. It includes a gentle hand massage and a perfect polish application, leaving your hands well-groomed and elegant.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/manicures-pedicures.jpg" alt="Luxury manicure and pedicure treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/manicures-pedicures.jpg" alt="Luxury manicure and pedicure treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
 
@@ -131,7 +131,7 @@
                   <p>Our soothing pedicure rejuvenates tired feet with exfoliation, nail shaping, and deep hydration. The treatment restores smoothness and finishes with a polished, flawless look.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/pedicures.jpg" alt="Luxury manicure and pedicure treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/pedicures.jpg" alt="Luxury manicure and pedicure treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -147,7 +147,7 @@
                     <p>Expert waxing removes unwanted hair efficiently, leaving skin smooth and long-lastingly soft. Using high-quality wax, this treatment ensures minimal discomfort and professional results for all areas, from legs to bikini line.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/waxing-hair-removal.jpg" alt="Hair removal with Body waxing treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/waxing-hair-removal.jpg" alt="Hair removal with Body waxing treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -163,7 +163,7 @@
                     <p>Precise eyebrow waxing sculpts and defines the brows to frame the face beautifully. The treatment achieves a clean, polished look while maintaining natural shape and balance.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/waxing-and-tinting.jpg" alt="Luxury eyebrow waxing treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/waxing-and-tinting.jpg" alt="Luxury eyebrow waxing treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
 
@@ -174,7 +174,7 @@
                     <p>Enhance and define your brows and lashes with a semi-permanent tint, tailored to complement your natural tones. This treatment creates fuller-looking brows with lasting color and depth.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/waxing-and-tinting2.jpg" alt="Luxury brow and lash tinting treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/waxing-and-tinting2.jpg" alt="Luxury brow and lash tinting treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -190,7 +190,7 @@
                     <p>Indulge in our deeply relaxing massage using smooth, flowing strokes to ease tension, improve circulation, and promote overall well-being. Perfect for those seeking gentle but effective stress relief.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/Massage-1.jpeg" alt="Luxury Swedish massage treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/Massage-1.jpeg" alt="Luxury Swedish massage treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -236,5 +236,10 @@
     
   </body>
 </html>
+
+
+
+
+
 
 

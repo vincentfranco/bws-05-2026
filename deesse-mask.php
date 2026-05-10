@@ -46,20 +46,20 @@
       "addressRegion": "East Sussex",
       "postalCode": "BN22 9QD"
         },
-        "telephone": "+44 (0) 1323 507 506",
-        "email": "bookings@beautywithchristina.co.uk",
+        "telephone": "+44 1323 507506",
+        "email": "info@beautywithchristina.co.uk",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 50.7707392,
           "longitude": 0.278528
         },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+        "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"]
       },
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
       "specialOffers": "Deese Mask LED Treatments for clearer more youthful skin.",
       "image": "images/Deese-mask.jpg",
-      "url": "https://beautywithchristina.co.uk/Deese-mask.php"
+      "url": "https://beautywithchristina.co.uk/deesse-mask.php"
     }
     </script>
 
@@ -124,7 +124,7 @@
         <div class="row align-items-center">
             <!-- Image Section (Appears Before Text on Large Screens, After on Mobile) -->
             <div class="col-md-6 col-lg-6">
-                <img src="images/deesse-mask-anti-ageing-treatment.jpg" 
+                <img loading="lazy" src="images/deesse-mask-anti-ageing-treatment.jpg" 
                      alt="Déesse Mask LED Therapy" 
                      class="img-fluid rounded shadow-lg">
             </div>
@@ -168,7 +168,7 @@
                     <p><strong>Post-Treatment:</strong> Apply SPF and a hydrating serum.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/deesse-mask-anti-ageing-treatment.jpg" alt="LED Light Therapy for anti-aging and wrinkle reduction" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/deesse-mask-anti-ageing-treatment.jpg" alt="LED Light Therapy for anti-aging and wrinkle reduction" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -185,7 +185,7 @@
                     <p><strong>Post-Treatment:</strong> Use a gentle moisturizer and acne-specific products.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/deesee-mask-acne-reduction-treatment.jpg" alt="LED Blue Light Therapy for acne treatment and prevention" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/deesee-mask-acne-reduction-treatment.jpg" alt="LED Blue Light Therapy for acne treatment and prevention" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -202,7 +202,7 @@
                     <p><strong>Post-Treatment:</strong> Apply SPF and brightening serums.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/deesse-mask-skin-brightening-treatment.jpg" alt="LED Green Light Therapy for brightening and evening skin tone" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/deesse-mask-skin-brightening-treatment.jpg" alt="LED Green Light Therapy for brightening and evening skin tone" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -219,7 +219,7 @@
                     <p><strong>Post-Treatment:</strong> Use calming products to support recovery.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/deesse-mask-skin-healing-treatment.jpg" alt="LED Near-Infrared Light Therapy for skin recovery and inflammation relief" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/deesse-mask-skin-healing-treatment.jpg" alt="LED Near-Infrared Light Therapy for skin recovery and inflammation relief" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -236,7 +236,7 @@
                     <p><strong>Post-Treatment:</strong> Apply moisturizer and enjoy the calming effects.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/deesse-mask-relaxation.jpg" alt="Yellow LED Light Therapy for relaxation and stress relief" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/deesse-mask-relaxation.jpg" alt="Yellow LED Light Therapy for relaxation and stress relief" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -274,5 +274,10 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+
+
+
+
+
 
 

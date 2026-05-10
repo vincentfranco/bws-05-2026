@@ -45,7 +45,7 @@
           "latitude": 50.7707392,
           "longitude": 0.278528
         },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+        "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"]
       },
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
@@ -156,10 +156,10 @@
     <!-- Treatment Image Carousel -->
     <div class="col-lg-8">
         <div class="treatment-carousel owl-carousel">
-            <div class="item"><img src="images/caci-hands.jpg" alt="Treatment Image 1"></div>
-            <div class="item"><img src="images/caci-hands2.jpg" alt="Treatment Image 2"></div>
-            <div class="item"><img src="images/caci-hands3.jpg" alt="Treatment Image 3"></div>
-            <div class="item"><img src="images/caci-hands4.jpg" alt="Treatment Image 4"></div>
+            <div class="item"><img loading="lazy" src="images/caci-hands.jpg" alt="Treatment Image 1"></div>
+            <div class="item"><img loading="lazy" src="images/caci-hands2.jpg" alt="Treatment Image 2"></div>
+            <div class="item"><img loading="lazy" src="images/caci-hands3.jpg" alt="Treatment Image 3"></div>
+            <div class="item"><img loading="lazy" src="images/caci-hands4.jpg" alt="Treatment Image 4"></div>
         </div>
     </div>
 
@@ -182,7 +182,7 @@
 			<div class="row align-items-center">
 					<!-- CACI Hand Rejuvenation Image -->
 					<div class="col-lg-6">
-						<img src="images/caci-hands.jpg" alt="CACI Hand Rejuvenation" class="img-fluid">
+						<img loading="lazy" src="images/caci-hands.jpg" alt="CACI Hand Rejuvenation" class="img-fluid">
 					</div>
 					<div class="col-lg-6">
 						<div class="treatment">
@@ -224,5 +224,10 @@
   <script src="js/main.js"></script>
     </body>
 </html>
+
+
+
+
+
 
 

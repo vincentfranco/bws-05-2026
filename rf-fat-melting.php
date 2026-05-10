@@ -25,14 +25,14 @@
       "addressRegion": "East Sussex",
       "postalCode": "BN22 9QD"
         },
-        "telephone": "+44 (0) 1323 507 506",
-        "email": "bookings@beautywithchristina.co.uk",
+        "telephone": "+44 1323 507506",
+        "email": "info@beautywithchristina.co.uk",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 50.7707392,
           "longitude": 0.278528
         },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+        "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"]
       },
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
@@ -95,7 +95,7 @@
             <div class="row align-items-center">
                 <!-- RF Fat Melting Information -->
                 <div class="col-lg-6">
-                    <img src="images/rf-fat-melting.jpg" alt="RF Fat Melting Treatment" class="img-fluid">
+                    <img loading="lazy" src="images/rf-fat-melting.jpg" alt="RF Fat Melting Treatment" class="img-fluid">
                 </div>
                 <div class="col-lg-6">
                     <h3>Reshape and Rejuvenate</h3>
@@ -135,5 +135,10 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+
+
+
+
+
 
 

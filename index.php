@@ -122,7 +122,7 @@
             <div class="col-md-6">
                 <div class="services2 text-center ftco-animate">
                     <div class="icon d-flex justify-content-center align-items-center">
-                        <img src="images/Beauty_With_Christina_logo_Body_Aesthetics.svg" alt="Beauty with Christina Logo" class="custom-icon">
+                        <img loading="lazy" src="images/Beauty_With_Christina_logo_Body_Aesthetics.svg" alt="Beauty with Christina Logo" class="custom-icon">
                     </div>
                     <div class="text mt-3">
                         <a href="body-contouring.php"><h3>Body Aesthetics</h3></a>
@@ -133,7 +133,7 @@
             <div class="col-md-6">
                 <div class="services2 text-center ftco-animate">
                     <div class="icon d-flex justify-content-center align-items-center">
-                        <img src="images/Beauty_With_Christina_logo_Facials.svg" alt="Beauty with Christina Logo" class="custom-icon">
+                        <img loading="lazy" src="images/Beauty_With_Christina_logo_Facials.svg" alt="Beauty with Christina Logo" class="custom-icon">
                     </div>
                     <div class="text mt-3">
                         <a href="facials.php"><h3>Facials</h3></a>
@@ -144,7 +144,7 @@
             <div class="col-md-6 mt-4">
                 <div class="services2 text-center ftco-animate">
                     <div class="icon d-flex justify-content-center align-items-center">
-                        <img src="images/small bwc icon-02.svg" alt="Beauty with Christina Logo" class="custom-icon">
+                        <img loading="lazy" src="images/small bwc icon-02.svg" alt="Beauty with Christina Logo" class="custom-icon">
                     </div>
                     <div class="text mt-3">
                         <a href="laser-hair-removal.php"><h3>Laser Hair Removal</h3></a>
@@ -155,7 +155,7 @@
             <div class="col-md-6 mt-4">
                 <div class="services2 text-center ftco-animate">
                     <div class="icon d-flex justify-content-center align-items-center">
-                        <img src="images/Beauty_With_Christina_logo_Classic_Beauty.svg" alt="Beauty with Christina Logo" class="custom-icon">
+                        <img loading="lazy" src="images/Beauty_With_Christina_logo_Classic_Beauty.svg" alt="Beauty with Christina Logo" class="custom-icon">
                     </div>
                     <div class="text mt-3">
                         <a href="classic-beauty.php"><h3>Classic Beauty</h3></a>
@@ -307,5 +307,10 @@
 	    
   </body>
 </html>
+
+
+
+
+
 
 

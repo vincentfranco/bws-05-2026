@@ -182,7 +182,7 @@
         </div>
 		 <div class="icon">
 			  		<!-- Add margin for spacing -->
-          			<img src="images/Beauty_With_Christina_logo_styled2-02.svg" alt="Beauty with Christina Logo" 
+          			<img loading="lazy" src="images/Beauty_With_Christina_logo_styled2-02.svg" alt="Beauty with Christina Logo" 
                		style="max-width: 350px; height: auto; margin: 60px auto; display: block;">
         			</div>
 		    </div>
@@ -312,5 +312,10 @@
 	  
   </body>
 </html>
+
+
+
+
+
 
 

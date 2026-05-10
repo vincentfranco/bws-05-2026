@@ -55,12 +55,6 @@
   "areaServed": "Eastbourne and surrounding areas"
 }
 </script>
-  "about": "Exclusive discounts on laser hair removal, body contouring, weight loss, and anti-ageing treatments.",
-  "image": "https://example.com/path-to-image.jpg",
-  "url": "https://beautywithchristina.co.uk/about.php"
-}
-
-</script>
 	    <script src="js/bootstrap.min.js"></script>
   <script src="js/jquery.min.js"></script>
 	  </head>
@@ -207,7 +201,7 @@
             <p>Our treatments are backed by intensive research and development, helping individuals of all backgrounds feel confident and comfortable in their own skin. We are committed to delivering outstanding service with attention to detail, ensuring personalised care in every session.</p>
                 </div>
                 <div class="col-lg-6">
-                    <img src="images/christina-franco.jpg" alt="Christina Franco" class="img-fluid">
+                    <img loading="lazy" src="images/christina-franco.jpg" alt="Christina Franco" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -235,5 +229,10 @@
   <script src="js/main.js"></script>
  </body>   
 </html>
+
+
+
+
+
 
 

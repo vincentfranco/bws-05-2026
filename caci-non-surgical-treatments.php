@@ -45,7 +45,7 @@
           "latitude": 50.7707392,
           "longitude": 0.278528
         },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+        "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"]
       },
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
@@ -142,7 +142,7 @@
                         <p><strong>Duration:</strong> 60 minutes</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                        <img src="images/caci-non-surgical-facelift.jpg" alt="CACI Non-Surgical Facelift" class="img-fluid rounded shadow-lg">
+                        <img loading="lazy" src="images/caci-non-surgical-facelift.jpg" alt="CACI Non-Surgical Facelift" class="img-fluid rounded shadow-lg">
                     </div>
                 </div>
             </div>
@@ -160,7 +160,7 @@
                         <p><strong>Duration:</strong> 30 minutes</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                        <img src="images/caci-eye-revive.jpg" alt="CACI Eye Revive" class="img-fluid rounded shadow-lg">
+                        <img loading="lazy" src="images/caci-eye-revive.jpg" alt="CACI Eye Revive" class="img-fluid rounded shadow-lg">
                     </div>
                 </div>
             </div>
@@ -179,7 +179,7 @@
                         <p><strong>Duration:</strong> 30 minutes</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                        <img src="images/caci-hydratone.jpg" alt="CACI Hydratone Facial" class="img-fluid rounded shadow-lg">
+                        <img loading="lazy" src="images/caci-hydratone.jpg" alt="CACI Hydratone Facial" class="img-fluid rounded shadow-lg">
                     </div>
                 </div>
             </div>
@@ -197,7 +197,7 @@
                         <p><strong>Duration:</strong> 30 minutes</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                        <img src="images/caci-jowl-lift1.jpg" alt="CACI Jowl Lift" class="img-fluid rounded shadow-lg">
+                        <img loading="lazy" src="images/caci-jowl-lift1.jpg" alt="CACI Jowl Lift" class="img-fluid rounded shadow-lg">
                     </div>
                 </div>
             </div>
@@ -215,7 +215,7 @@
                         <p><strong>Duration:</strong> 30 minutes</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                        <img src="images/caci-hands2.jpg" alt="CACI Hand Rejuvenation" class="img-fluid rounded shadow-lg">
+                        <img loading="lazy" src="images/caci-hands2.jpg" alt="CACI Hand Rejuvenation" class="img-fluid rounded shadow-lg">
                     </div>
                 </div>
             </div>
@@ -296,5 +296,10 @@
   <script src="js/main.js"></script>
     </body>
 </html>
+
+
+
+
+
 
 

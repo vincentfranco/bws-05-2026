@@ -44,14 +44,14 @@
           "addressRegion": "East Sussex",
           "postalCode": "BN22 9QD"
         },
-        "telephone": "+44 (0) 1323 507 506",
-        "email": "bookings@beautywithchristina.co.uk",
+        "telephone": "+44 1323 507506",
+        "email": "info@beautywithchristina.co.uk",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 50.7707392,
           "longitude": 0.278528
         },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+        "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"]
       },
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
@@ -133,7 +133,7 @@
 					<p><strong>Post-Treatment:</strong> Mild redness may occur; hydration and SPF use are highly recommended.</p>
 				</div>
         			<div class="col-lg-4 col-md-4 col-12 order-md-last">
-            		<img src="images/is-clinical-fire-ice-facial.jpg" alt="Fire & Ice Resurfacing Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
+            		<img loading="lazy" src="images/is-clinical-fire-ice-facial.jpg" alt="Fire & Ice Resurfacing Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
         		</div>
    			 </div>
 		</div>
@@ -149,7 +149,7 @@
 						<p><strong>Post-Treatment:</strong> Skin will feel refreshed and smoother; avoid heavy makeup for a few hours.</p>
 					</div>
 					<div class="col-lg-4 col-md-4 col-12 order-md-last">
-						<img src="images/is-clinical-foaming-enzyme-treatment.jpg" alt="Foaming Enzyme Treatment by iS CLINICAL" class="img-fluid rounded shadow-lg">
+						<img loading="lazy" src="images/is-clinical-foaming-enzyme-treatment.jpg" alt="Foaming Enzyme Treatment by iS CLINICAL" class="img-fluid rounded shadow-lg">
 					</div>
 				</div>
 			</div>
@@ -165,7 +165,7 @@
 						<p><strong>Post-Treatment:</strong> Expect a soothed, hydrated complexion; continue using gentle, calming skincare.</p>
 				  </div>
 					<div class="col-lg-4 col-md-4 col-12 order-md-last">
-						<img src="images/is-clinical-harmony-facial.jpg" alt="Harmony Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
+						<img loading="lazy" src="images/is-clinical-harmony-facial.jpg" alt="Harmony Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
 					</div>
 				</div>
 			</div>
@@ -181,7 +181,7 @@
 						<p><strong>Post-Treatment:</strong> Skin may feel smoother and less congested; continue using non-comedogenic skincare.</p>
 					</div>
 					<div class="col-lg-4 col-md-4 col-12 order-md-last">
-						<img src="images/is-clinical-clear-skin-facial.jpg" alt="Exfoliating Clear Skin Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
+						<img loading="lazy" src="images/is-clinical-clear-skin-facial.jpg" alt="Exfoliating Clear Skin Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
 					</div>
 				</div>
 			</div> -->
@@ -197,7 +197,7 @@
 						<p><strong>Post-Treatment:</strong> Skin will feel plump and hydrated; follow up with nourishing skincare.</p>
 					</div>
 					<div class="col-lg-4 col-md-4 col-12 order-md-last">
-						<img src="images/is-clinical-youth-intensive-facial.jpg" alt="Youth Intensive Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
+						<img loading="lazy" src="images/is-clinical-youth-intensive-facial.jpg" alt="Youth Intensive Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
 					</div>
 				</div>
 			</div> -->
@@ -246,5 +246,10 @@
     
   </body>
 </html>
+
+
+
+
+
 
 

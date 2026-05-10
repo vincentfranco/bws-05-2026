@@ -30,7 +30,8 @@
     {
       "@context": "https://schema.org",
       "@type": "Service",
-      "name": "Laser Hair Removal at Beauty With Christina",
+      "name": "Laser Hair Removal",
+      "description": "Advanced laser technology for long-lasting hair reduction.",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Beauty With Christina",
@@ -48,12 +49,14 @@
           "latitude": 50.7707392,
           "longitude": 0.278528
         },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+        "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"]
       },
-      "areaServed": "Eastbourne and surrounding areas",
-      "priceRange": "££",
-      "specialOffers": "Achieve smooth, hair-free skin with painless and effective laser hair removal treatments at Beauty With Christina.",
-      "image": "images/laser-hair-removal.jpg",
+      "areaServed": "Eastbourne",
+      "offers": {
+        "@type": "Offer",
+        "priceRange": "££"
+      },
+      "image": "https://beautywithchristina.co.uk/images/laser-hair-removal.jpg",
       "url": "https://beautywithchristina.co.uk/laser-hair-removal.php"
     }
     </script>
@@ -108,7 +111,7 @@
         	<div class="row align-items-center">
             	<!-- Image Section (Appears Before Text on Large Screens, After on Mobile) -->
             	<div class="col-md-6 col-lg-6">
-                	<img src="images/laser treatment under arm.jpg" 
+                	<img loading="lazy" src="images/laser treatment under arm.jpg" 
                      	alt="Laser Hair Removal Treatment" 
                      	class="img-fluid rounded shadow-lg">
             	</div>
@@ -140,7 +143,7 @@
                     <p>Laser hair removal typically involves an initial series of 6 to 8 sessions, designed to progressively reduce hair density and thickness. Followng your consultation&nbsp; you will be given your laser hair removal treatment proposal to address your needs.&nbsp;To maintain long-lasting results and keep regrowth minimal, top-up treatments every 6 to 12 months are recommended.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/hair-removal.jpg" alt="Laser Hair Removal Course Treatment" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/hair-removal.jpg" alt="Laser Hair Removal Course Treatment" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -158,7 +161,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/laser-acne-treatment.jpg" alt="Laser Treatment for Acne Reduction" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/laser-acne-treatment.jpg" alt="Laser Treatment for Acne Reduction" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div> -->
@@ -178,7 +181,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/rosacea-laser-treatment.jpg" alt="Laser Treatment for Rosacea" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/rosacea-laser-treatment.jpg" alt="Laser Treatment for Rosacea" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -201,7 +204,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
-                    <img src="images/skin-rejuvenation-laser.jpg" alt="Laser Skin Rejuvenation Treatment" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/skin-rejuvenation-laser.jpg" alt="Laser Skin Rejuvenation Treatment" class="img-fluid rounded shadow-lg">
                 </div>
             </div>
         </div>
@@ -231,5 +234,10 @@
   <script src="js/main.js"></script>
  </body>   
 </html>
+
+
+
+
+
 
 

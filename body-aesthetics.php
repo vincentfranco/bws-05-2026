@@ -42,14 +42,14 @@
           "addressRegion": "East Sussex",
           "postalCode": "BN22 9QD"
         },
-        "telephone": "+44 (0) 1323 507 506",
-        "email": "bookings@beautywithchristina.co.uk",
+        "telephone": "+44 1323 507506",
+        "email": "info@beautywithchristina.co.uk",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 50.7707392,
           "longitude": 0.278528
         },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+        "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"]
       },
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
@@ -114,7 +114,7 @@
         <div class="row align-items-center">
             <!-- Image Section (Appears Before Text on Large Screens, After on Mobile) -->
             <div class="col-md-6 col-lg-6">
-                <img src="images/body-aesthetics.jpg" 
+                <img loading="lazy" src="images/body-aesthetics.jpg" 
                      alt="Body contouring treatments - fat reduction" 
                      class="img-fluid rounded shadow-lg">
             </div>
@@ -148,11 +148,11 @@
 					<p><strong>Interim Rest Period:</strong> Minimum 6 weeks between sessions on the same area (to allow the body to naturally process and eliminate fat cells)</p>
 				</div>
 				<div class="col-lg-4 col-md-4 col-12 order-md-last">
-					<img src="images/cryolipolysis-treatment.jpg" alt="Cryolipolysis fat freezing treatment targeting stubborn fat cells" class="img-fluid rounded shadow-lg">
+					<img loading="lazy" src="images/cryolipolysis-treatment.jpg" alt="Cryolipolysis fat freezing treatment targeting stubborn fat cells" class="img-fluid rounded shadow-lg">
 					<br>
 					<br>
 					<br>
-					<img src="images/cryolipolysis-treatment2.jpg" alt="Cryolipolysis fat freezing treatment targeting stubborn fat cells" class="img-fluid rounded shadow-lg">
+					<img loading="lazy" src="images/cryolipolysis-treatment2.jpg" alt="Cryolipolysis fat freezing treatment targeting stubborn fat cells" class="img-fluid rounded shadow-lg">
 				</div>
 			</div>
 		</div>
@@ -173,11 +173,11 @@
             <p><strong>Recommended Course:</strong> Typically 6–8 sessions for optimal results</p>
         </div>
         <div class="col-lg-4 col-md-4 col-12 order-md-last">
-            <img src="images/rf-skin-tightening.jpg" alt="RF skin tightening treatment improving skin elasticity" class="img-fluid rounded shadow-lg">
+            <img loading="lazy" src="images/rf-skin-tightening.jpg" alt="RF skin tightening treatment improving skin elasticity" class="img-fluid rounded shadow-lg">
 			<br>
 					<br>
 					<br>
-			<img src="images/rf-skin-tightening2.jpg" alt="RF skin tightening treatment improving skin elasticity" class="img-fluid rounded shadow-lg">
+			<img loading="lazy" src="images/rf-skin-tightening2.jpg" alt="RF skin tightening treatment improving skin elasticity" class="img-fluid rounded shadow-lg">
         </div>
     </div>
 </div>
@@ -196,11 +196,11 @@
 				<p><strong>Post-Treatment:</strong> Mild redness or bruising may occur; it is advisable to continue hydrating and engage in light physical activity to support lymphatic drainage.</p>
 			</div>
 			<div class="col-lg-4 col-md-4 col-12 order-md-last">
-				<img src="images/dermology-treatment.jpg" alt="3D Dermology treatment for cellulite reduction and skin tightening" class="img-fluid rounded shadow-lg">
+				<img loading="lazy" src="images/dermology-treatment.jpg" alt="3D Dermology treatment for cellulite reduction and skin tightening" class="img-fluid rounded shadow-lg">
 				<br>
 					<br>
 					<br>
-				<img src="images/dermology-treatment2.jpg" alt="3D Dermology treatment for cellulite reduction and skin tightening" class="img-fluid rounded shadow-lg">
+				<img loading="lazy" src="images/dermology-treatment2.jpg" alt="3D Dermology treatment for cellulite reduction and skin tightening" class="img-fluid rounded shadow-lg">
 			</div>
     	</div>
 	</div>	
@@ -237,5 +237,10 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+
+
+
+
+
 
 
