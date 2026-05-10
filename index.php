@@ -32,31 +32,28 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "Beauty With Christina - Home",
-      "description": "Welcome to Beauty With Christina in Eastbourne. Explore our wide range of beauty treatments, including laser hair removal, body contouring, and anti-ageing solutions.",
-      "provider": {
-        "@type": "LocalBusiness",
-        "name": "Beauty With Christina",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "	35a Brasey Ave",
-          "addressLocality": "Eastbourne",
-          "addressRegion": "East Sussex",
-          "postalCode": "BN21"
-        },
-        "telephone": "+44 1323 507506",
-        "email": "bookingswithchristina.co.uk",
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": 50.7707392,
-          "longitude": 0.278528
-        },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+      "@type": "LocalBusiness",
+      "name": "Beauty With Christina",
+      "description": "Specialist in anti-ageing and body aesthetic treatments in Eastbourne.",
+      "url": "https://beautywithchristina.co.uk",
+      "telephone": "+44 1323 507506",
+      "email": "info@beautywithchristina.co.uk",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "35a Brasey Ave",
+        "addressLocality": "Eastbourne",
+        "addressRegion": "East Sussex",
+        "postalCode": "BN22 9QD"
       },
-      "areaServed": "Eastbourne and surrounding areas",
-      "image": "images/beauty-with-christina.jpg",
-      "url": "https://beautywithchristina.co.uk/index.php"
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 50.7707392,
+        "longitude": 0.278528
+      },
+      "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"],
+      "priceRange": "££",
+      "image": "https://beautywithchristina.co.uk/images/beauty-with-christina.jpg",
+      "areaServed": "Eastbourne and surrounding areas"
     }
     </script>
 
@@ -128,7 +125,7 @@
                         <img src="images/Beauty_With_Christina_logo_Body_Aesthetics.svg" alt="Beauty with Christina Logo" class="custom-icon">
                     </div>
                     <div class="text mt-3">
-                        <a href="body-contouring.html"><h3>Body Aesthetics</h3></a>
+                        <a href="body-contouring.php"><h3>Body Aesthetics</h3></a>
                         <p>Enhance your body with our comprehensive Body Aesthetics treatments, featuring 3D Lipo Cryolipolysis, cavitation, radio frequency fat melting, and dermology. Utilizing the advanced technology of 3D Lipo, our treatments are designed to target and reduce stubborn fat, sculpting your body to perfection. Invest in a course today and unlock a new level of confidence and well-being.</p>
                     </div>
                 </div>
@@ -139,7 +136,7 @@
                         <img src="images/Beauty_With_Christina_logo_Facials.svg" alt="Beauty with Christina Logo" class="custom-icon">
                     </div>
                     <div class="text mt-3">
-                        <a href="facials.html"><h3>Facials</h3></a>
+                        <a href="facials.php"><h3>Facials</h3></a>
                         <p>Elevate your skin care with our exclusive facials, featuring the renowned CACI Non-Surgical and iS Clinical treatments. Experience a rejuvenating blend of advanced therapies that sculpt, refine, and illuminate your natural beauty, leaving you with a refreshed and radiant complexion. Pamper yourself with the ultimate in skin care luxury and let us help you achieve your best skin ever.</p>
                     </div>
                 </div>
@@ -150,7 +147,7 @@
                         <img src="images/small bwc icon-02.svg" alt="Beauty with Christina Logo" class="custom-icon">
                     </div>
                     <div class="text mt-3">
-                        <a href="laser-hair-removal.html"><h3>Laser Hair Removal</h3></a>
+                        <a href="laser-hair-removal.php"><h3>Laser Hair Removal</h3></a>
                         <p>Say goodbye to the hassle of shaving and the pain of waxing with our advanced cold laser hair removal treatments. Enjoy the convenience of lasting smoothness and hair-free skin, with personalised courses and maintenance sessions for optimal results. Embrace the freedom of permanently reducing unwanted hair and achieve effortlessly smooth skin every day.</p>
                     </div>
                 </div>
@@ -161,7 +158,7 @@
                         <img src="images/Beauty_With_Christina_logo_Classic_Beauty.svg" alt="Beauty with Christina Logo" class="custom-icon">
                     </div>
                     <div class="text mt-3">
-                        <a href="classic-beauty.html"><h3>Classic Beauty</h3></a>
+                        <a href="classic-beauty.php"><h3>Classic Beauty</h3></a>
                         <p>Indulge in the luxury of our classic beauty treatments, designed to pamper and enhance your everyday look. From manicures and pedicures to waxing and eyebrow shaping, our services cater to all your beauty needs. Experience the ultimate relaxation with our Swedish or bamboo massages. Leave feeling radiant, rejuvenated, and utterly relaxed.</p>
                     </div>
                 </div>
@@ -318,3 +315,4 @@
 	    
   </body>
 </html>
+

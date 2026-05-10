@@ -63,17 +63,7 @@
 </head>
 
 <body>
-       <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar ftco-navbar-light" id="ftco-navbar">
-    <div class="container">
-        <a class="navbar-brand" href="index.html"><span class="flaticon-lotus"></span>Beauty With Christina</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="oi oi-menu"></span> Menu
-        </button>
-        <div class="collapse navbar-collapse" id="ftco-nav">
-            <ul class="navbar-nav ml-auto">
-                <!-- Static Links -->
-                <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-                <li class="nav-item"><a hr<?php include 'menu.php'; ?>
+<?php include 'menu.php'; ?>
 
 			<section class="hero-wrap hero-wrap-2" style="background-image: url('images/caci-non-surgical-facelifting-3.jpg');" data-stellar-background-ratio="0.5">
 				  <div class="overlay"></div>
@@ -83,8 +73,8 @@
 						 <div class="title-wrapper">
 						<h1 class="mb-3 bread">CACI</h1>
 						  <p class="breadcrumbs">
-							 <span class="mr-2"><a href="index.html">Home</a></span>
-							 <span class="mr-2"><a href="treatments.html">Treatments</a></span>
+							 <span class="mr-2"><a href="index.php">Home</a></span>
+							 <span class="mr-2"><a href="treatments.php">Treatments</a></span>
 							 <span>CACI Facelifting</span></p>
 							  </div>
 					  </div>
@@ -183,7 +173,7 @@
 						<div class="treatment">
 							<h3 class="heading">Experience the CACI Difference</h3>
 							<p>At <strong>Beauty with Christina</strong>, we bring you the most advanced CACI non-surgical treatments for natural, long-lasting results.</p>
-							<a href="booking-page.html" class="btn btn-primary btn-lg">Book Your CACI Consultation</a>
+							<a href="booking-page.php" class="btn btn-primary btn-lg">Book Your CACI Consultation</a>
 						</div>
 					</div>
 				</div>
@@ -240,3 +230,4 @@
   <script src="js/main.js"></script>
     </body>
 </html>
+

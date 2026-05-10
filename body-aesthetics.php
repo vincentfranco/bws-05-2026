@@ -85,8 +85,8 @@
                     <div class="title-wrapper">
                         <h1 class="mb-3 bread">Lipo Reduction</h1>
                         <p class="breadcrumbs">
-                            <span class="mr-2"><a href="index.html">Home</a></span> 
-							<span class="mr-2"><a href="treatments.html">Treatments</a></span> 
+                            <span class="mr-2"><a href="index.php">Home</a></span> 
+							<span class="mr-2"><a href="treatments.php">Treatments</a></span> 
                             <span>FAT REDUCTION TREATMENTS</span>
 							 <div/>
                         </p>
@@ -115,7 +115,7 @@
             <!-- Image Section (Appears Before Text on Large Screens, After on Mobile) -->
             <div class="col-md-6 col-lg-6">
                 <img src="images/body-aesthetics.jpg" 
-                     alt="Body coontouring treatmetns - fat reduction" 
+                     alt="Body contouring treatments - fat reduction" 
                      class="img-fluid rounded shadow-lg">
             </div>
             <!-- Text Section -->
@@ -124,7 +124,7 @@
               		<p class="lead"> Non-surgical fat reduction offers a safe, effective way to contour your body without the need for surgery or downtime.&nbsp;</p>
               			<p class="lead">Cryolipolysis, radiofrequency skin tightening, and 3D dermology treatments target stubborn fat, improve skin elasticity, and enhance body confidence.&nbsp;</p>
                 		<p class="lead">Designed for those seeking visible results with minimal disruption to daily life, non-surgical fat reduction helps sculpt and refine your shape for a more toned and contoured appearance.</p>
-					<p><a href="body-aesthetic-courses.html" target="_blank" class="btn btn-primary p-3 px-5 py-4 mr-md-2">Body Aesthetic Courses</a></p>
+					<p><a href="body-aesthetic-courses.php" target="_blank" class="btn btn-primary p-3 px-5 py-4 mr-md-2">Body Aesthetic Courses</a></p>
             </div>
         </div>
     </div>
@@ -243,3 +243,4 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+

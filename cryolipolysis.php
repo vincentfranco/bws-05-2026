@@ -72,8 +72,8 @@
                     <div class="title-wrapper">
                         <h1 class="mb-3 bread">Skin Tightening</h1>
                         <p class="breadcrumbs">
-                            <span class="mr-2"><a href="index.html">Home</a></span> 
-                            <span><a href="treatments.html">Treatments</a></span>
+                            <span class="mr-2"><a href="index.php">Home</a></span> 
+                            <span><a href="treatments.php">Treatments</a></span>
                             <span>Skin Tightening</span>
                         </p>
                     </div>
@@ -140,4 +140,5 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+
 

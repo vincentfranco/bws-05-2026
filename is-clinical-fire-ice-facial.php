@@ -73,8 +73,8 @@
                     <div class="title-wrapper">
                         <h1 class="mb-3 bread">iS Clinical Fire &amp; Ice Deluxe Facial</h1>
                         <p class="breadcrumbs">
-                            <span class="mr-2"><a href="index.html">Home</a></span> 
-                            <span><a href="treatments.html">Treatments</a></span>
+                            <span class="mr-2"><a href="index.php">Home</a></span> 
+                            <span><a href="treatments.php">Treatments</a></span>
                             <span>iS Clinical Fire &amp; Ice Deluxe Facial</span>
                         </p>
                     </div>
@@ -193,7 +193,7 @@
 			      <p>
                         The iS Clinical Fire &amp; Ice Deluxe Facial is a results-driven treatment designed to rapidly and safely resurface the skin. Combining warming and cooling sensations, it delivers a flawless complexion while targeting fine lines, wrinkles, and blemishes.
                     </p>
-			     <a href="booking-page.html" class="btn btn-primary btn-lg">Book Your Fire and Ice Facial</a>
+			     <a href="booking-page.php" class="btn btn-primary btn-lg">Book Your Fire and Ice Facial</a>
 			</div>						
 		</div>
 	</div>
@@ -227,3 +227,4 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+

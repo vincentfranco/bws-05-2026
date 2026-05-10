@@ -73,8 +73,8 @@
                     <div class="title-wrapper">
                         <h1 class="mb-3 bread">iS Clinical Harmony Facial</h1>
                         <p class="breadcrumbs">
-                            <span class="mr-2"><a href="index.html">Home</a></span> 
-                            <span><a href="treatments.html">Treatments</a></span>
+                            <span class="mr-2"><a href="index.php">Home</a></span> 
+                            <span><a href="treatments.php">Treatments</a></span>
                             <span>iS Clinical Harmony Facial</span>
                         </p>
                     </div>
@@ -192,7 +192,7 @@
 			<div class="treatment">
 				<h3 class="heading">Find Your Skin’s Perfect Balance</h3>
 			      <p>Our iS Clinical Harmony Facial is designed to restore, refresh, and rebalance your skin. Using iS Clinical’s powerful botanical formulations, this gentle yet effective treatment soothes sensitive skin, reduces redness, and deeply hydrates. Ideal for all skin types, it’s perfect for stress relief and overall skin wellness. Experience the harmony your skin deserves.</p>
-			     <a href="booking-page.html" class="btn btn-primary btn-lg">Book Your Harmony Facial</a>
+			     <a href="booking-page.php" class="btn btn-primary btn-lg">Book Your Harmony Facial</a>
 			</div>						
 		</div>
 	</div>
@@ -227,3 +227,4 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+

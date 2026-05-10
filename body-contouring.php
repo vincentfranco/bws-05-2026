@@ -81,7 +81,7 @@
           <div class="col-md-9 ftco-animate text-center">
 			  <div class="title-wrapper">
             <h1 class="mb-3 bread">BODY AESTHETICS</h1>
-			 <p class="breadcrumbs"><span class="mr-2"><a href="treatments.html">Treatments</a></span> <span>Body Contouring Treatments</span></p>
+			 <p class="breadcrumbs"><span class="mr-2"><a href="treatments.php">Treatments</a></span> <span>Body Contouring Treatments</span></p>
 				 </div>
           </div>
         </div>
@@ -145,3 +145,4 @@
     
   </body>
 </html>
+

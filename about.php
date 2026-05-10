@@ -25,29 +25,30 @@
 	   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Beauty Treatment Offers and Specials",
-  "provider": {
-    "@type": "LocalBusiness",
-    "name": "Beauty With Christina",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "123 Main Street",
-      "addressLocality": "Eastbourne",
-      "addressRegion": "East Sussex",
-      "postalCode": "BN21"
-    },
-    "telephone": "+44 1234 567890",
-    "email": "bookings@beautywithchristina.co.uk",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 50.768036,
-      "longitude": 0.290472
-    },
-    "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+  "@type": "LocalBusiness",
+  "name": "Beauty With Christina",
+  "description": "Specialist in anti-ageing and body aesthetic treatments in Eastbourne.",
+  "url": "https://beautywithchristina.co.uk/about.php",
+  "telephone": "+44 1323 507506",
+  "email": "info@beautywithchristina.co.uk",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "35a Brasey Ave",
+    "addressLocality": "Eastbourne",
+    "addressRegion": "East Sussex",
+    "postalCode": "BN22 9QD"
   },
-  "areaServed": "Eastbourne and surrounding areas",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.7707392,
+    "longitude": 0.278528
+  },
+  "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"],
   "priceRange": "££",
+  "image": "https://beautywithchristina.co.uk/images/christina-franco.jpg",
+  "areaServed": "Eastbourne and surrounding areas"
+}
+</script>
   "about": "Exclusive discounts on laser hair removal, body contouring, weight loss, and anti-ageing treatments.",
   "image": "https://example.com/path-to-image.jpg",
   "url": "https://beautywithchristina.co.uk/about.php"
@@ -77,7 +78,7 @@
           		<div class="col-md-9 ftco-animate text-center">
             		<div class="title-wrapper">
               		<h1 class="mb-3 bread">About</h1>
-              	<p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home</a></span> <span>About</span></p>
+              	<p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home</a></span> <span>About</span></p>
             		</div>
           		</div>
         	</div>
@@ -132,7 +133,7 @@
 								<ul>
 									<li><strong>Classic Beauty Treatments:</strong> Indulge in expert Manicures and Pedicures, precise Waxing and Tinting services, or unwind with a relaxing Swedish Massage. Our timeless therapies leave you feeling rejuvenated and radiant.</li>
 									<li><strong>CACI Non-Surgical Facelifting:</strong> This non-invasive facial lifts, tones, and firms facial muscles while stimulating collagen production for a more youthful, sculpted appearance.</li>
-									<li><strong>Deesse Mask LED Therapy:</strong> Harnessing clinically proven LED light technology, Deesse Mask enhances skin rejuvenation, reduces fine lines, and improves overall skin tone. It works synergistically with CACI and other treatmetns to maximize skin health and radiance.</li>
+									<li><strong>Deesse Mask LED Therapy:</strong> Harnessing clinically proven LED light technology, Deesse Mask enhances skin rejuvenation, reduces fine lines, and improves overall skin tone. It works synergistically with CACI and other treatments to maximize skin health and radiance.</li>
 									<li><strong>iS Clinical® Skincare Treatments:</strong> Scientifically advanced skincare solutions developed with pharmaceutical-grade botanical ingredients to improve skin health, target signs of aging, and enhance overall radiance.</li>
 									<li><strong>Laser Hair Removal:</strong> Advanced laser technology for long-lasting hair reduction, delivering smooth, hair-free skin with precision and comfort.</li>
 									<li><strong>Fat and Cellulite Reduction:</strong> Non-invasive body sculpting treatments designed to reduce stubborn fat and cellulite, helping to contour and define your body shape.</li>
@@ -176,7 +177,7 @@
 					<ul>
 						<li><strong>Classic Beauty Treatments:</strong> Indulge in expert Manicures and Pedicures, precise Waxing and Tinting services, or unwind with a relaxing Swedish Massage. Our timeless therapies leave you feeling rejuvenated and radiant.</li>
 						<li><strong>CACI Non-Surgical Facelifting:</strong> This non-invasive facial lifts, tones, and firms facial muscles while stimulating collagen production for a more youthful, sculpted appearance.</li>
-						<li><strong>Deesse Mask LED Therapy:</strong> Harnessing clinically proven LED light technology, Deesse Mask enhances skin rejuvenation, reduces fine lines, and improves overall skin tone. It works synergistically with CACI and other treatmetns to maximize skin health and radiance.</li>
+						<li><strong>Deesse Mask LED Therapy:</strong> Harnessing clinically proven LED light technology, Deesse Mask enhances skin rejuvenation, reduces fine lines, and improves overall skin tone. It works synergistically with CACI and other treatments to maximize skin health and radiance.</li>
 						<li><strong>iS Clinical® Skincare Treatments:</strong> Scientifically advanced skincare solutions developed with pharmaceutical-grade botanical ingredients to improve skin health, target signs of aging, and enhance overall radiance.</li>
 						<li><strong>Laser Hair Removal:</strong> Advanced laser technology for long-lasting hair reduction, delivering smooth, hair-free skin with precision and comfort.</li>
 						<li><strong>Fat and Cellulite Reduction:</strong> Non-invasive body sculpting treatments designed to reduce stubborn fat and cellulite, helping to contour and define your body shape.</li>
@@ -234,3 +235,4 @@
   <script src="js/main.js"></script>
  </body>   
 </html>
+

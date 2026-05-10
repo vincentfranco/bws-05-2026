@@ -34,30 +34,28 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "ContactPage",
-      "name": "Contact Beauty With Christina",
-      "provider": {
-        "@type": "LocalBusiness",
-        "name": "Beauty With Christina",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "35a Brasey Ave",
-          "addressLocality": "Eastbourne",
-          "addressRegion": "East Sussex",
-          "postalCode": "BN22 9QD"
-        },
-        "telephone": "+44 (0) 1323 507506",
-        "email": "bookings@beautywithchristina.co.uk",
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": 50.7707392,
-          "longitude": 0.278528
-        },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+      "@type": "LocalBusiness",
+      "name": "Beauty With Christina",
+      "description": "Specialist in anti-ageing and body aesthetic treatments in Eastbourne.",
+      "url": "https://beautywithchristina.co.uk/contact.php",
+      "telephone": "+44 1323 507506",
+      "email": "info@beautywithchristina.co.uk",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "35a Brasey Ave",
+        "addressLocality": "Eastbourne",
+        "addressRegion": "East Sussex",
+        "postalCode": "BN22 9QD"
       },
-      "areaServed": "Eastbourne and surrounding areas",
-      "image": "images/contact.jpg",
-      "url": "https://beautywithchristina.co.uk/contact.php"
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 50.7707392,
+        "longitude": 0.278528
+      },
+      "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"],
+      "priceRange": "££",
+      "image": "https://beautywithchristina.co.uk/images/contact.jpg",
+      "areaServed": "Eastbourne and surrounding areas"
     }
     </script>
 	
@@ -183,3 +181,4 @@
     
   </body>
 </html>
+

@@ -32,32 +32,28 @@
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Special Offers at Beauty With Christina",
-  "provider": {
-    "@type": "LocalBusiness",
-    "name": "Beauty With Christina",
-    "address": {
-       "@type": "PostalAddress",
-      "streetAddress": "35a Brasey Ave",
-      "addressLocality": "Eastbourne",
-      "addressRegion": "East Sussex",
-      "postalCode": "BN22 9QD"
-    },
-    "telephone": "+44 1323 507 506",
-    "email": "bookings@beautywithchristina.co.uk",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 50.7707392,
-      "longitude": 0.278528
-    },
-    "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+  "@type": "LocalBusiness",
+  "name": "Beauty With Christina",
+  "description": "Specialist in anti-ageing and body aesthetic treatments in Eastbourne.",
+  "url": "https://beautywithchristina.co.uk/specials.php",
+  "telephone": "+44 1323 507506",
+  "email": "info@beautywithchristina.co.uk",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "35a Brasey Ave",
+    "addressLocality": "Eastbourne",
+    "addressRegion": "East Sussex",
+    "postalCode": "BN22 9QD"
   },
-  "areaServed": "Eastbourne and surrounding areas",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 50.7707392,
+    "longitude": 0.278528
+  },
+  "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"],
   "priceRange": "££",
-  "specialOffers": "Explore exclusive special offers on our beauty treatments, including discounts on laser hair removal, facials, and more at Beauty With Christina.",
-  "image": "images/specials.jpg",
-  "url": "https://beautywithchristina.co.uk/specials.html"
+  "image": "https://beautywithchristina.co.uk/images/specials.jpg",
+  "areaServed": "Eastbourne and surrounding areas"
 }
 </script>
 
@@ -74,26 +70,7 @@
     
 
   <body>
-	  
-  	<nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar ftco-navbar-light" id="ftco-navbar">
-    <div class="container">
-        <a class="navbar-brand" href="index.html"><span class="flaticon-lotus"></span>Beauty With Christina</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="oi oi-menu"></span> Menu
-        </button>
-        <div class="collapse navbar-collapse" id="ftco-nav">
-            <ul class="navbar-nav ml-auto">
-                <!-- Static Links -->
-                <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-				 <li class="nav-item"><a href="treatments.html" class="nav-link">Treatments</a></li>
-                <li class="nav-item"><a href="specials.html" class="nav-link">Specials</a></li>
-                <li class="nav-item"><a href="price-list.html" class="nav-link">Pricing</a></li>
-                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-            </ul>
-        </div>
-    </div>
-</nav>
+<?php include 'menu.php'; ?>
     <!-- END nav -->
 	  
 	
@@ -104,7 +81,7 @@
           <div class="col-md-9 ftco-animate text-center">
 			  <div class="title-wrapper">
             	<h1 class="mb-3 bread">Offers and Specials</h1>
-			  	<p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home</a></span> <span>Offers and Specials</span></p>
+			  	<p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home</a></span> <span>Offers and Specials</span></p>
 			  </div>
           </div>
         </div>
@@ -436,3 +413,4 @@
     
   </body>
 </html>
+

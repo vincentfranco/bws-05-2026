@@ -62,25 +62,7 @@
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 </head>
 <body>
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar ftco-navbar-light" id="ftco-navbar">
-        <div class="container">
-            <a class="navbar-brand" href="index.html"><span class="flaticon-lotus"></span>Beauty With Christina</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="oi oi-menu"></span> Menu
-            </button>
-            <div class="collapse navbar-collapse" id="ftco-nav">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
-                    <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-                    <li class="nav-item"><a href="treatments.html" class="nav-link">Treatments</a></li>
-                    <li class="nav-item"><a href="specials.html" class="nav-link">Specials</a></li>
-                    <li class="nav-item"><a href="price-list.html" class="nav-link">Pricing</a></li>
-                    <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+<?php include 'menu.php'; ?>
 
     <!-- Hero Section -->
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/skin-tightening-banner.jpg');" data-stellar-background-ratio="0.5">
@@ -91,8 +73,8 @@
                     <div class="title-wrapper">
                         <h1 class="mb-3 bread">Skin Tightening</h1>
                         <p class="breadcrumbs">
-                            <span class="mr-2"><a href="index.html">Home</a></span> 
-                            <span><a href="treatments.html">Treatments</a></span>
+                            <span class="mr-2"><a href="index.php">Home</a></span> 
+                            <span><a href="treatments.php">Treatments</a></span>
                             <span>Skin Tightening</span>
                         </p>
                     </div>
@@ -159,4 +141,5 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+
 

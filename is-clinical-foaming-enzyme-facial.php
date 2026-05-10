@@ -72,8 +72,8 @@
                     <div class="title-wrapper">
                         <h1 class="mb-3 bread">iS Clinical Champagne Enzyme Facial</h1>
                         <p class="breadcrumbs">
-                            <span class="mr-2"><a href="index.html">Home</a></span> 
-                            <span><a href="treatments.html">Treatments</a></span>
+                            <span class="mr-2"><a href="index.php">Home</a></span> 
+                            <span><a href="treatments.php">Treatments</a></span>
                             <span>iS Clinical Champagne Enzyme Facial</span>
                         </p>
                     </div>
@@ -194,7 +194,7 @@
 				<h3 class="heading">Brighten, Renew, and Revitalise</h3>
 			      <p>The iS Clinical Foaming Enzyme Facial is a gentle yet powerful exfoliating treatment designed to brighten, smooth, and hydrate the skin. Using natural fruit enzymes and an oxygenating foaming action, this facial dissolves dead skin cells, boosts circulation, and enhances skin radiance without irritation or downtime.</p>
 					<h3>A Luxurious Oxygenating Facial for Instant Glow &amp; Radiance</h3>
-			     <a href="booking-page.html" class="btn btn-primary btn-lg">Book Your Champagne Enzyme Facial</a>
+			     <a href="booking-page.php" class="btn btn-primary btn-lg">Book Your Champagne Enzyme Facial</a>
 		  </div>						
 		</div>
 	</div>
@@ -230,3 +230,4 @@
     
   </body>
 </html>
+

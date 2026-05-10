@@ -72,8 +72,8 @@
                     <div class="title-wrapper">
                         <h1 class="mb-3 bread">Deep Cleansing Facial</h1>
                         <p class="breadcrumbs">
-                            <span class="mr-2"><a href="index.html">Home</a></span> 
-                            <span><a href="treatments.html">Treatments</a></span>
+                            <span class="mr-2"><a href="index.php">Home</a></span> 
+                            <span><a href="treatments.php">Treatments</a></span>
                             <span>Deep Cleansing Facial</span>
                         </p>
                     </div>
@@ -121,7 +121,7 @@
 			<div class="treatment">
 				<h3 class="heading">Purify, Detoxify, Refresh</h3>
 			      <p>The iS Clinical Deep Cleansing Facial is perfect for congested, dull, or breakout-prone skin. This clarifying treatment uses medical-grade cleansers, exfoliants, and extractions to deeply purify pores and rebalance oil production. Ideal for all skin types, it leaves your skin clean, clear, and radiant.</p>
-			     <a href="booking-page.html" class="btn btn-primary btn-lg">Book Your Deep Cleansing Facial</a>
+			     <a href="booking-page.php" class="btn btn-primary btn-lg">Book Your Deep Cleansing Facial</a>
 			</div>						
 		</div>
 	</div>
@@ -154,3 +154,4 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+

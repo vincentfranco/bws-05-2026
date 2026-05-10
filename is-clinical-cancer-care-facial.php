@@ -73,8 +73,8 @@
                     <div class="title-wrapper">
                         <h1 class="mb-3 bread">iS Clinical Cancer Care Facial</h1>
                         <p class="breadcrumbs">
-                            <span class="mr-2"><a href="index.html">Home</a></span> 
-                            <span><a href="treatments.html">Treatments</a></span>
+                            <span class="mr-2"><a href="index.php">Home</a></span> 
+                            <span><a href="treatments.php">Treatments</a></span>
                             <span>iS Clinical Cancer Care Facial</span>
                         </p>
                     </div>
@@ -192,7 +192,7 @@
 			<div class="treatment">
 				<h3 class="heading">Calm and Soothe</h3>
 			      <p>The iS Clinical Cancer Care Facial is a carefully designed treatment for sensitive and compromised skin. Using nourishing ingredients and gentle techniques, it promotes hydration, reduces irritation, and enhances skin health.</p>
-			     <a href="booking-page.html" class="btn btn-primary btn-lg">Book Your Cancer Care Facial</a>
+			     <a href="booking-page.php" class="btn btn-primary btn-lg">Book Your Cancer Care Facial</a>
 		  </div>						
 		</div>
 	</div>
@@ -226,3 +226,4 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+

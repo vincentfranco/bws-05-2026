@@ -83,9 +83,9 @@
                     <div class="title-wrapper">
                         <h1 class="mb-3 bread">Body Aesthetic Courses</h1>
                         <p class="breadcrumbs">
-                            <span class="mr-2"><a href="index.html">Home</a></span>
-							<span class="mr-2"><a href="body-aesthetics.html">Body Aesthetics</a></span> 
-							<span class="mr-2"><a href="treatments.html">Treatments</a></span> 
+                            <span class="mr-2"><a href="index.php">Home</a></span>
+							<span class="mr-2"><a href="body-aesthetics.php">Body Aesthetics</a></span> 
+							<span class="mr-2"><a href="treatments.php">Treatments</a></span> 
                             <span>Courses</span>
                         </p>
                     </div>
@@ -349,3 +349,4 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+

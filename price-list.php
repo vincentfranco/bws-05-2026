@@ -32,32 +32,28 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Service",
-      "name": "Beauty Treatment Pricing at Beauty With Christina",
-      "provider": {
-        "@type": "LocalBusiness",
-        "name": "Beauty With Christina",
-        "address": {
-           "@type": "PostalAddress",
-      "streetAddress": "35a Brasey Ave",
-      "addressLocality": "Eastbourne",
-      "addressRegion": "East Sussex",
-      "postalCode": "BN22 9QD"
-        },
-        "telephone": "+44 (0) 1323 507 506",
-        "email": "bookings@beautywithchristina.co.uk",
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": 50.7707392,
-          "longitude": 0.278528
-        },
-        "openingHours": "Mo-Fr 09:00-17:00, Sa 10:00-14:00"
+      "@type": "LocalBusiness",
+      "name": "Beauty With Christina",
+      "description": "Specialist in anti-ageing and body aesthetic treatments in Eastbourne.",
+      "url": "https://beautywithchristina.co.uk/price-list.php",
+      "telephone": "+44 1323 507506",
+      "email": "info@beautywithchristina.co.uk",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "35a Brasey Ave",
+        "addressLocality": "Eastbourne",
+        "addressRegion": "East Sussex",
+        "postalCode": "BN22 9QD"
       },
-      "areaServed": "Eastbourne and surrounding areas",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 50.7707392,
+        "longitude": 0.278528
+      },
+      "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"],
       "priceRange": "££",
-      "specialOffers": "Affordable pricing for laser hair removal, body contouring, and anti-ageing treatments.",
-      "image": "images/pricing.jpg",
-      "url": "https://beautywithchristina.co.uk/pricing.php"
+      "image": "https://beautywithchristina.co.uk/images/pricing.jpg",
+      "areaServed": "Eastbourne and surrounding areas"
     }
     </script>
 	
@@ -82,7 +78,7 @@
 			  <div class="title-wrapper">
             	<h1 class="mb-3 bread">Pricing</h1>
 			  	<p class="breadcrumbs">
-					<span class="mr-2"><a href="index.html">Home</a></span>
+					<span class="mr-2"><a href="index.php">Home</a></span>
 					<span>Pricing</span></p>
 				  <div/>
           </div>
@@ -315,3 +311,4 @@
 	  
   </body>
 </html>
+

@@ -81,8 +81,8 @@
 						 <div class="title-wrapper">
 						<h1 class="mb-3 bread">CACI with BWC</h1>
 						  <p class="breadcrumbs">
-							 <span class="mr-2"><a href="index.html">Home</a></span>
-							 <span class="mr-2"><a href="treatments.html">Treatments</a></span>
+							 <span class="mr-2"><a href="index.php">Home</a></span>
+							 <span class="mr-2"><a href="treatments.php">Treatments</a></span>
 							 <span>Our CACI Treatments</span></p>
 							  </div>
 					  </div>
@@ -130,7 +130,7 @@
 
             <!-- CACI Non-Surgical Facelift -->
             <div class="treatment mt-5">
-                <h2 class="display-6 mb-4"><a href="caci-nonsurgical-facelifting.html">CACI Non-Surgical Facelift</a></h2>
+                <h2 class="display-6 mb-4"><a href="caci-nonsurgical-facelifting.php">CACI Non-Surgical Facelift</a></h2>
                 <div class="row align-items-center mb-4">
                     <div class="col-lg-8 col-md-8 col-12 order-md-first">
                         <ul>
@@ -149,7 +149,7 @@
 
             <!-- CACI Eye Revive -->
             <div class="treatment mt-5">
-                <h2 class="display-6 mb-4"><a href="caci-eye-revive.html">CACI Eye Revive</a></h2>
+                <h2 class="display-6 mb-4"><a href="caci-eye-revive.php">CACI Eye Revive</a></h2>
                 <div class="row align-items-center mb-4">
                     <div class="col-lg-8 col-md-8 col-12 order-md-first">
                         <ul>
@@ -167,7 +167,7 @@
 
             <!-- CACI Hydratone Facial -->
             <div class="treatment mt-5">
-                <h2 class="display-6 mb-4"><a href="caci-hydratone-facial.html">CACI Hydratone Facial</a></h2>
+                <h2 class="display-6 mb-4"><a href="caci-hydratone-facial.php">CACI Hydratone Facial</a></h2>
                 <div class="row align-items-center mb-4">
                     <div class="col-lg-8 col-md-8 col-12 order-md-first">
                         <ul>
@@ -186,7 +186,7 @@
 
             <!-- CACI Jowl Lift -->
             <div class="treatment mt-5">
-                <h2 class="display-6 mb-4"><a href="caci-jowl-lift.html">CACI Jowl Lift</a></h2>
+                <h2 class="display-6 mb-4"><a href="caci-jowl-lift.php">CACI Jowl Lift</a></h2>
                 <div class="row align-items-center mb-4">
                     <div class="col-lg-8 col-md-8 col-12 order-md-first">
                         <ul>
@@ -204,7 +204,7 @@
 
             <!-- CACI Hand Rejuvenation -->
             <div class="treatment mt-5">
-                <h2 class="display-6 mb-4"><a href="caci-hand-rejuvenation.html">CACI Hand Rejuvenation</a></h2>
+                <h2 class="display-6 mb-4"><a href="caci-hand-rejuvenation.php">CACI Hand Rejuvenation</a></h2>
                 <div class="row align-items-center mb-4">
                     <div class="col-lg-8 col-md-8 col-12 order-md-first">
                         <ul>
@@ -302,3 +302,4 @@
   <script src="js/main.js"></script>
     </body>
 </html>
+

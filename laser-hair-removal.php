@@ -41,8 +41,8 @@
           "addressRegion": "East Sussex",
           "postalCode": "BN22 9QD"
         },
-        "telephone": "+44 (0) 1323 507 506",
-        "email": "bookings@beautywithchristina.co.uk",
+        "telephone": "+44 1323 507506",
+        "email": "info@beautywithchristina.co.uk",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 50.7707392,
@@ -81,8 +81,8 @@
 			  <div class="title-wrapper">
             	<h1 class="mb-3 bread">Laser Hair Removal</h1>
 			 	<p class="breadcrumbs">
-					<span class="mr-2"><a href="index.html">Home</a></span>
-					<span class="mr-2"><a href="treatments.html">Treatments</a></span> 
+					<span class="mr-2"><a href="index.php">Home</a></span>
+					<span class="mr-2"><a href="treatments.php">Treatments</a></span> 
 					<span>Laser Hair</span></p>
           		</div>
 			  </div>
@@ -122,7 +122,7 @@
                     	<li>Pain-Free Experience – Advanced contact cooling technology makes treatments comfortable.</li>
                     	<li>Reduced need for shaving or waxing and removes ingrown hairs.</li>
                 	</ul>
-					<p><a href="book-consultation.html" target="_blank" class="btn btn-primary p-3 px-5 py-4 mr-md-2">Book Consultation</a></p>
+					<p><a href="book-consultation.php" target="_blank" class="btn btn-primary p-3 px-5 py-4 mr-md-2">Book Consultation</a></p>
             	</div>
         	</div>
 		</div>
@@ -237,3 +237,4 @@
   <script src="js/main.js"></script>
  </body>   
 </html>
+
