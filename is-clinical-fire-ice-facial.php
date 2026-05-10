@@ -38,7 +38,7 @@
       "priceRange": "££",
       "specialOffers": "Transform your skin with the iS Clinical Fire & Ice Deluxe Facial for dramatic results.",
       "image": "images/is-clinical-fire-and-ice-deluxe-facial-treatment.jpg",
-      "url": "https://beautywithchristina.co.uk/is-clinical-fire-ice-facial.html"
+      "url": "https://beautywithchristina.co.uk/is-clinical-fire-ice-facial.php"
     }
     </script>
 
@@ -62,25 +62,7 @@
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 </head>
 <body>
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar ftco-navbar-light" id="ftco-navbar">
-        <div class="container">
-            <a class="navbar-brand" href="index.html"><span class="flaticon-lotus"></span>Beauty With Christina</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="oi oi-menu"></span> Menu
-            </button>
-            <div class="collapse navbar-collapse" id="ftco-nav">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
-                    <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-                    <li class="nav-item"><a href="treatments.html" class="nav-link">Treatments</a></li>
-                    <li class="nav-item"><a href="specials.html" class="nav-link">Specials</a></li>
-                    <li class="nav-item"><a href="price-list.html" class="nav-link">Pricing</a></li>
-                    <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+    <?php include 'menu.php'; ?>
 
     <!-- Hero Section -->
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/is-clinical-fire-and-ice-deluxe-facial-banner.jpeg');" data-stellar-background-ratio="0.5">

@@ -56,7 +56,7 @@
       },
       "areaServed": "Eastbourne and surrounding areas",
       "image": "images/beauty-with-christina.jpg",
-      "url": "https://beautywithchristina.co.uk/index.html"
+      "url": "https://beautywithchristina.co.uk/index.php"
     }
     </script>
 
@@ -73,31 +73,8 @@
   gtag('config', 'G-QD5P8DHWQ9');
 </script>
 	
-  <body> 
-  
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar ftco-navbar-light" id="ftco-navbar">
-    <div class="container">
-        <a class="navbar-brand" href="index.html"><span class="flaticon-lotus"></span>Beauty With Christina</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="oi oi-menu"></span> Menu
-        </button>
-        <div class="collapse navbar-collapse" id="ftco-nav">
-            <ul class="navbar-nav ml-auto">
-                <!-- Static Links -->
-                <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-				 <li class="nav-item"><a href="treatments.html" class="nav-link">Treatments</a></li>
-                <li class="nav-item"><a href="specials.html" class="nav-link">Specials</a></li>
-                <li class="nav-item"><a href="price-list.html" class="nav-link">Pricing</a></li>
-                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-            </ul>
-        </div>
-    </div>
-</nav>
-
-    <!-- END nav -->
-	 
-	  
+    <body>
+<?php include 'menu.php'; ?>
     <section class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container"></div>
@@ -111,14 +88,13 @@
                 </div>
 	          </div>
 			  <p>
-            	<a href="https://beautywithchristina.booksy.com/" target="_blank" class="btn btn-primary p-3 px-5 py-4 mr-md-2">BOOK YOUR Book CONSULTATION</a>
+            	<a href="https://beautywithchristina.booksy.com/" target="_blank" class="btn btn-primary p-3 px-5 py-4 mr-md-2">BOOK YOUR CONSULTATION</a>
             	<a href="https://mailchi.mp/810e1fe4e17d/our-special-offers" target="_blank" class="btn btn-primary p-3 px-5 py-4 ml-md-2">Get Exclusive Deals</a>
             </p>
           </div>
         </div>
       </div>
    </section>
-	
 		
 <section class="ftco-section ftco-intro" style="background-image: url('images/intro.jpg'); background-size: cover; background-position: center; padding: 60px 0;">
     <div class="container">

@@ -54,7 +54,7 @@
       "priceRange": "££",
       "specialOffers": "Achieve smooth, hair-free skin with painless and effective laser hair removal treatments at Beauty With Christina.",
       "image": "images/laser-hair-removal.jpg",
-      "url": "https://beautywithchristina.co.uk/laser-hair-removal.html"
+      "url": "https://beautywithchristina.co.uk/laser-hair-removal.php"
     }
     </script>
 	    <script src="js/bootstrap.min.js"></script>
@@ -73,26 +73,7 @@
 	  
 
   <body>
-     <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar ftco-navbar-light" id="ftco-navbar">
-    <div class="container">
-        <a class="navbar-brand" href="index.html"><span class="flaticon-lotus"></span>Beauty With Christina</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="oi oi-menu"></span> Menu
-        </button>
-        <div class="collapse navbar-collapse" id="ftco-nav">
-            <ul class="navbar-nav ml-auto">
-                <!-- Static Links -->
-                <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-				 <li class="nav-item"><a href="treatments.html" class="nav-link">Treatments</a></li>
-                <li class="nav-item"><a href="specials.html" class="nav-link">Specials</a></li>
-                <li class="nav-item"><a href="price-list.html" class="nav-link">Pricing</a></li>
-                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-            </ul>
-        </div>
-    </div>
-</nav>
-
+    <?php include 'menu.php'; ?>
 <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_laser_hair_removal.jpeg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
        <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center">

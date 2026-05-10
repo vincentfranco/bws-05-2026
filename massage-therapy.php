@@ -53,7 +53,7 @@
       "priceRange": "££",
       "specialOffers": "Discover the benefits of massage treatments at Beauty With Christina.",
       "image": "images/massage-treatments-banner.jpg",
-      "url": "https://beautywithchristina.co.uk/massage-treatments.html"
+      "url": "https://beautywithchristina.co.uk/massage-treatments.php"
     }
     </script>
 

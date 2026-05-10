@@ -57,7 +57,7 @@
       "priceRange": "££",
       "specialOffers": "Affordable pricing for laser hair removal, body contouring, and anti-ageing treatments.",
       "image": "images/pricing.jpg",
-      "url": "https://beautywithchristina.co.uk/pricing.html"
+      "url": "https://beautywithchristina.co.uk/pricing.php"
     }
     </script>
 	
@@ -71,30 +71,7 @@
 
   gtag('config', 'G-QD5P8DHWQ9');
 </script>
-	
- 
-
-  <body>
-  	<nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar ftco-navbar-light" id="ftco-navbar">
-    <div class="container">
-        <a class="navbar-brand" href="index.html"><span class="flaticon-lotus"></span>Beauty With Christina</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="oi oi-menu"></span> Menu
-        </button>
-        <div class="collapse navbar-collapse" id="ftco-nav">
-            <ul class="navbar-nav ml-auto">
-                <!-- Static Links -->
-                <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-				 <li class="nav-item"><a href="treatments.html" class="nav-link">Treatments</a></li>
-                <li class="nav-item"><a href="specials.html" class="nav-link">Specials</a></li>
-                <li class="nav-item"><a href="pricing.html" class="nav-link">Pricing</a></li>
-                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-            </ul>
-        </div>
-    </div>
-</nav>
-    <!-- END nav -->
+ <?php include 'menu.php'; ?>
 	  
 	 
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
