@@ -111,7 +111,7 @@
 					  <p><span>Phone:</span> <a href="tel://1234567920">(+44) 01323 506507</a></p>
 					</div>
 					<div class="col-md-12 mb-3">
-					  <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@beautywithchristina.co.uk</a></p>
+					  <p><span>Email:</span> <a href="mailto:info@beautywithchristina.co.uk">info@beautywithchristina.co.uk</a></p>
 					</div>
 					<div class="col-md-12 mb-3">
 					  <p><span>Website:</span> <a href="#">beautywithchristina.co.uk</a></p>
@@ -181,6 +181,7 @@
     
   </body>
 </html>
+
 
 
 
