@@ -196,11 +196,11 @@
 				<p><strong>Post-Treatment:</strong> Mild redness or bruising may occur; it is advisable to continue hydrating and engage in light physical activity to support lymphatic drainage.</p>
 			</div>
 			<div class="col-lg-4 col-md-4 col-12 order-md-last">
-				<img loading="lazy" src="images/dermology-treatment.jpg" alt="3D Dermology treatment for cellulite reduction and skin tightening" class="img-fluid rounded shadow-lg">
+				<img loading="lazy" src="images/body-aesthetics.jpg" alt="3D Dermology treatment for cellulite reduction and skin tightening" class="img-fluid rounded shadow-lg">
 				<br>
-					<br>
-					<br>
-				<img loading="lazy" src="images/dermology-treatment2.jpg" alt="3D Dermology treatment for cellulite reduction and skin tightening" class="img-fluid rounded shadow-lg">
+						<br>
+						<br>
+				<img loading="lazy" src="images/body-aesthetic-courses.jpg" alt="3D Dermology treatment for cellulite reduction and skin tightening" class="img-fluid rounded shadow-lg">
 			</div>
     	</div>
 	</div>	

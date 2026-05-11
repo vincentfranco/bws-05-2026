@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon\.png" type="image/x-icon">
 
     <!-- Structured Data -->
     <script type="application/ld+json">
@@ -133,7 +133,7 @@
 					<p><strong>Post-Treatment:</strong> Mild redness may occur; hydration and SPF use are highly recommended.</p>
 				</div>
         			<div class="col-lg-4 col-md-4 col-12 order-md-last">
-            		<img loading="lazy" src="images/is-clinical-fire-ice-facial.jpg" alt="Fire & Ice Resurfacing Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
+                    <img loading="lazy" src="images/is-clinical-fire-and-ice-deluxe-facial-treatment.jpeg" alt="Fire & Ice Resurfacing Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
         		</div>
    			 </div>
 		</div>
@@ -246,6 +246,7 @@
     
   </body>
 </html>
+
 
 
 

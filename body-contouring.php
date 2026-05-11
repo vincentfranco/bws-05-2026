@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon\.png" type="image/x-icon">
     
 
     <!-- Structured Data -->
@@ -57,7 +57,7 @@
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
       "specialOffers": "Achieve your ideal shape with professional body contouring services designed to target stubborn fat and improve your body’s appearance at Beauty With Christina.",
-      "image": "images/body-contouring.jpg",
+      "image": "images/body-aesthetics.jpg",
       "url": "https://beautywithchristina.co.uk/body-contouring.php"
     }
     </script>
@@ -138,6 +138,7 @@
     
   </body>
 </html>
+
 
 
 

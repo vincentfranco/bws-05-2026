@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon\.png" type="image/x-icon">
 
     <!-- Structured Data -->
     <script type="application/ld+json">
@@ -56,7 +56,7 @@
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
       "specialOffers": "Discover the benefits of advanced iS Clinical treatments, including anti-aging and skin rejuvenation, available at Beauty With Christina.",
-      "image": "images/is-clinical-treatments.jpg",
+      "image": "images/is-clinical-pure-wellness-cancer-care.jpg",
       "url": "https://beautywithchristina.co.uk/is-clinical-treatments.php"
     }
     </script>
@@ -396,6 +396,7 @@
     
   </body>
 </html>
+
 
 
 
