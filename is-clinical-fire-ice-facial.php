@@ -60,6 +60,39 @@
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="images/favicon\.png" type="image/x-icon">
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://beautywithchristina.co.uk/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Treatments",
+            "item": "https://beautywithchristina.co.uk/treatments.php"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "iS Clinical® Treatments",
+            "item": "https://beautywithchristina.co.uk/is-clinical-treatments.php"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Fire & Ice Deluxe Facial",
+            "item": "https://beautywithchristina.co.uk/is-clinical-fire-ice-facial.php"
+        }
+    ]
+}
+    </script>
 </head>
 <body>
     <?php include 'menu.php'; ?>

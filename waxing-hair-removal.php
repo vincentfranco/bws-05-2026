@@ -62,6 +62,39 @@
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="images/favicon\.png" type="image/x-icon">
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://beautywithchristina.co.uk/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Treatments",
+            "item": "https://beautywithchristina.co.uk/treatments.php"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Classic Beauty",
+            "item": "https://beautywithchristina.co.uk/classic-beauty.php"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Waxing & Hair Removal",
+            "item": "https://beautywithchristina.co.uk/waxing-hair-removal.php"
+        }
+    ]
+}
+    </script>
 </head>
 <body>
 <?php include 'menu.php'; ?>

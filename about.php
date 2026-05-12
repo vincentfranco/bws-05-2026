@@ -57,7 +57,28 @@
 </script>
   <script src="js/jquery.min.js"></script>
 	    <script src="js/bootstrap.min.js"></script>
-	  </head>
+	  
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://beautywithchristina.co.uk/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "About",
+            "item": "https://beautywithchristina.co.uk/about.php"
+        }
+    ]
+}
+    </script>
+</head>
 	  <!-- Google tag (gtag.js) -->
 <script>
   window.dataLayer = window.dataLayer || [];

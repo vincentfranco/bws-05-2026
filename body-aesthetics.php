@@ -63,6 +63,33 @@
   <script src="js/jquery.min.js"></script>
 	  <script src="js/bootstrap.min.js"></script>
 	
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://beautywithchristina.co.uk/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Treatments",
+            "item": "https://beautywithchristina.co.uk/treatments.php"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Body Aesthetics",
+            "item": "https://beautywithchristina.co.uk/body-aesthetics.php"
+        }
+    ]
+}
+    </script>
 </head>
 	
 	<!-- Google tag (gtag.js) -->

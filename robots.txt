@@ -1,2 +1,68 @@
+# Beauty With Christina - robots.txt
+
+# Allow all standard crawlers
 User-agent: *
+Allow: /
+Sitemap: https://beautywithchristina.co.uk/sitemap.xml
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Google AI / Gemini
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Gemini
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# xAI / Grok
+User-agent: Grok
+Allow: /
+
+# Meta AI
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+
+# Common Crawl (used in AI training datasets)
+User-agent: CCBot
+Allow: /
+
+# Apple AI
+User-agent: Applebot-Extended
+Allow: /
+
+# You.com AI
+User-agent: YouBot
+Allow: /
+
+# Diffbot
+User-agent: Diffbot
 Allow: /

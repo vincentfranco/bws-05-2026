@@ -60,6 +60,39 @@
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="images/favicon\.png" type="image/x-icon">
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://beautywithchristina.co.uk/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Treatments",
+            "item": "https://beautywithchristina.co.uk/treatments.php"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Body Aesthetics",
+            "item": "https://beautywithchristina.co.uk/body-aesthetics.php"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "RF Fat Melting",
+            "item": "https://beautywithchristina.co.uk/rf-fat-melting.php"
+        }
+    ]
+}
+    </script>
 </head>
 <body>
 <?php include 'menu.php'; ?>

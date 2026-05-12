@@ -62,6 +62,39 @@
     </script>
 
     <script defer src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://beautywithchristina.co.uk/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Treatments",
+            "item": "https://beautywithchristina.co.uk/treatments.php"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "iS Clinical® Treatments",
+            "item": "https://beautywithchristina.co.uk/is-clinical-treatments.php"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "FAQ",
+            "item": "https://beautywithchristina.co.uk/is-clinical-treatment-faq.php"
+        }
+    ]
+}
+    </script>
 </head>
 <body>
 <?php include 'menu.php'; ?>
