@@ -41,7 +41,7 @@
           "postalCode": "BN22 9QD"
         },
         "telephone": "+44 1323 507506",
-        "email": "info@beautywithchristina.co.uk",
+        "email": "bookings@beautywithchristina.co.uk",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 50.7707392,
@@ -58,8 +58,8 @@
     </script>
 
     
-	  <script src="js/bootstrap.min.js"></script>
   <script src="js/jquery.min.js"></script>
+	  <script src="js/bootstrap.min.js"></script>
 	
 </head>
 	<!-- Google tag (gtag.js) -->

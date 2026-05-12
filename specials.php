@@ -12,7 +12,7 @@
     <!-- Open Graph for Social Media Sharing -->
     <meta property="og:title" content="Special Offers at Beauty With Christina - Eastbourne Beauty Deals">
     <meta property="og:description" content="Discover exclusive offers and specials from Beauty With Christina, including discounts on laser hair removal, body contouring, weight loss, and anti-ageing treatments in Eastbourne.">
-    <meta property="og:image" content="https://beautywithchristina.co.uk/images/specials.jpg">
+    <meta property="og:image" content="https://beautywithchristina.co.uk/images/offers-and-specials2\.jpg">
     <meta property="og:url" content="https://beautywithchristina.co.uk/specials.php">
     <meta name="twitter:card" content="summary_large_image">
 
@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon\.png" type="image/x-icon">
 
     <!-- Structured Data -->
     <script type="application/ld+json">
@@ -44,7 +44,7 @@
   "description": "Specialist in anti-ageing and body aesthetic treatments in Eastbourne.",
   "url": "https://beautywithchristina.co.uk/specials.php",
   "telephone": "+44 1323 507506",
-  "email": "info@beautywithchristina.co.uk",
+  "email": "bookings@beautywithchristina.co.uk",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "35a Brasey Ave",
@@ -59,7 +59,7 @@
   },
   "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"],
   "priceRange": "££",
-  "image": "https://beautywithchristina.co.uk/images/specials.jpg",
+  "image": "https://beautywithchristina.co.uk/images/offers-and-specials2\.jpg",
   "areaServed": "Eastbourne and surrounding areas"
 }
 </script>
@@ -414,6 +414,7 @@
     
   </body>
 </html>
+
 
 
 

@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="css/flaticon.css"/>
     <link rel="stylesheet" href="css/icomoon.css"/>
     <link rel="stylesheet" href="css/style.css"/>
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="images/favicon.png" type="image/x-icon"/>
   
 
     <!-- Structured Data -->
@@ -45,7 +45,7 @@
       "description": "Specialist in anti-ageing and body aesthetic treatments in Eastbourne.",
       "url": "https://beautywithchristina.co.uk/treatments.php",
       "telephone": "+44 1323 507506",
-      "email": "info@beautywithchristina.co.uk",
+      "email": "bookings@beautywithchristina.co.uk",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "35a Brasey Ave",
@@ -89,7 +89,7 @@
 			  	<p class="breadcrumbs">
 					<span class="mr-2"><a href="index.php">Home</a></span>
 					<span>Treatments</span></p>
-				  <div/>
+            </div>
           </div>
         </div>
       </div>
@@ -198,6 +198,7 @@
     
   </body>
 </html>
+
 
 
 

@@ -12,7 +12,7 @@
     <!-- Open Graph for Social Media Sharing -->
     <meta property="og:title" content="Contact Beauty With Christina - Eastbourne Beauty Treatments">
     <meta property="og:description" content="Get in touch with Beauty With Christina for inquiries about our beauty treatments, laser hair removal, body contouring, and anti-ageing services in Eastbourne.">
-    <meta property="og:image" content="https://beautywithchristina.co.uk/images/contact.jpg">
+    <meta property="og:image" content="https://beautywithchristina.co.uk/images/contact-beauty-with-christina\.jpg">
     <meta property="og:url" content="https://beautywithchristina.co.uk/contact.php">
     <meta name="twitter:card" content="summary_large_image">
 
@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
 
     <!-- Structured Data -->
     <script type="application/ld+json">
@@ -46,7 +46,7 @@
       "description": "Specialist in anti-ageing and body aesthetic treatments in Eastbourne.",
       "url": "https://beautywithchristina.co.uk/contact.php",
       "telephone": "+44 1323 507506",
-      "email": "info@beautywithchristina.co.uk",
+      "email": "bookings@beautywithchristina.co.uk",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "35a Brasey Ave",
@@ -61,7 +61,7 @@
       },
       "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"],
       "priceRange": "££",
-      "image": "https://beautywithchristina.co.uk/images/contact.jpg",
+      "image":\ "https://beautywithchristina.co.uk/images/contact-beauty-with-christina\.jpg",
       "areaServed": "Eastbourne and surrounding areas"
     }
     </script>
@@ -90,7 +90,7 @@
           <div class="col-md-9 ftco-animate text-center">
 			  <div class="title-wrapper">
             <h1 class="mb-3 bread">Contact us</h1>
-			  <div/>
+          </div>
           </div>
         </div>
       </div>
@@ -108,10 +108,10 @@
 					  <p><span>Address:</span> 35 A Brassey Avenue, Hampden Park, Eastbourne, BN229QD</p>
 					</div>
 					<div class="col-md-12 mb-3">
-					  <p><span>Phone:</span> <a href="tel://1234567920">(+44) 01323 506507</a></p>
+					  <p><span>Phone:</span> <a href="tel://01323507506">(+44) 01323 507506</a></p>
 					</div>
 					<div class="col-md-12 mb-3">
-					  <p><span>Email:</span> <a href="mailto:info@beautywithchristina.co.uk">info@beautywithchristina.co.uk</a></p>
+					  <p><span>Email:</span> <a href="mailto:bookings@beautywithchristina.co.uk">bookings@beautywithchristina.co.uk</a></p>
 					</div>
 					<div class="col-md-12 mb-3">
 					  <p><span>Website:</span> <a href="#">beautywithchristina.co.uk</a></p>
@@ -236,6 +236,7 @@
     
   </body>
 </html>
+
 
 
 

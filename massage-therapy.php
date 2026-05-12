@@ -41,7 +41,7 @@
           "postalCode": "BN22 9QD"
         },
         "telephone": "+44 1323 507506",
-        "email": "info@beautywithchristina.co.uk",
+        "email": "bookings@beautywithchristina.co.uk",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 50.7707392,
@@ -52,7 +52,7 @@
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
       "specialOffers": "Discover the benefits of massage treatments at Beauty With Christina.",
-      "image": "images/massage-treatments-banner.jpg",
+      "image": "images/massage-treatments-banner\.jpeg",
       "url": "https://beautywithchristina.co.uk/massage-treatments.php"
     }
     </script>
@@ -74,7 +74,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon\.png" type="image/x-icon">
 	
 	</head>
 	
@@ -163,6 +163,7 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+
 
 
 

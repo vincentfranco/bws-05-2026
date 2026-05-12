@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon\.png" type="image/x-icon">
 
     <!-- Structured Data -->
     <script type="application/ld+json">
@@ -44,7 +44,7 @@
       "description": "Specialist in anti-ageing and body aesthetic treatments in Eastbourne.",
       "url": "https://beautywithchristina.co.uk/price-list.php",
       "telephone": "+44 1323 507506",
-      "email": "info@beautywithchristina.co.uk",
+      "email": "bookings@beautywithchristina.co.uk",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "35a Brasey Ave",
@@ -65,6 +65,7 @@
     </script>
 	
 	 </head>
+<body>
     <!-- Google tag (gtag.js) -->
 
 <script>
@@ -87,7 +88,7 @@
 			  	<p class="breadcrumbs">
 					<span class="mr-2"><a href="index.php">Home</a></span>
 					<span>Pricing</span></p>
-				  <div/>
+            </div>
           </div>
         </div>
       </div>
@@ -112,7 +113,7 @@
                             <p><strong>CACI Non-Surgical Facelift</strong><br>75 minutes - £55.00</p>
                             <p><strong>CACI Microdermabrasion</strong><br>45 minutes - £40.00</p>
                             <p><strong>CACI Wrinkle Comb</strong><br>45 minutes - £25.00</p>
-							<p><strong>CACI Hand Rejuvenation</strong><br>45 minutes - £40.00</p>
+							              <p><strong>CACI Hand Rejuvenation</strong><br>45 minutes - £40.00</p>
                         </div>
                         <div class="col-md-4">
                             <p><strong>CACI Rejuvenation</strong><br>75 minutes - £50.00</p>
@@ -138,6 +139,49 @@
                             <p><strong>iS Clinical Champagne Enzyme</strong><br>60 minutes - £65.00</p>
                         </div>
                     </div>
+                    <hr style="border: 1px solid #d9bf77; margin: 40px 0;">
+
+                    <!-- 3D LipoMed Body Sculpting Section -->
+                    <h3 class="mb-4 text-center">3D LipoMed – Body Sculpting</h3>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <p><strong>3D LipoMed – Body Sculpting</strong><br>(Consultation & patch test required)</p>
+                            <p><strong>Cryolipolysis (Fat Freezing)</strong><br>Small area: £125<br>Medium area: £250<br>Large area: £375</p>
+                        </div>
+                        <div class="col-md-4">
+                            <p><strong>Cavitation</strong><br>Small: £50<br>Medium: £100<br>Large: £150</p>
+                            <p><strong>Radio Frequency & Dermology (Skin Tightening)</strong><br>Small: £50<br>Medium: £100<br>Large: £150</p>
+                        </div>
+                        <div class="col-md-4">
+                            <p><strong>Bespoke Body Sculpting Packages</strong><br>Small: from £175<br>Medium: from £300<br>Large: from £450</p>
+                            <p><strong>Chin Cryolipolysis</strong><br>£125</p>
+                        </div>
+                    </div>
+                    <hr style="border: 1px solid #d9bf77; margin: 40px 0;">
+
+<!-- Laser Hair Removal Section -->
+<h3 class="mb-4 text-center">Laser Hair Removal</h3>
+<p class="text-center">(Patch test / consultation required)</p>
+<div class="row">
+    <div class="col-md-4">
+        <p><strong>Full Leg</strong><br>£170</p>
+        <p><strong>Upper Legs</strong><br>£88</p>
+        <p><strong>Lower Legs</strong><br>£88</p>
+        <p><strong>Full Face & Neck</strong><br>£113</p>
+    </div>
+    <div class="col-md-4">
+        <p><strong>Full Face</strong><br>£75</p>
+        <p><strong>Back & Shoulders</strong><br>£150</p>
+        <p><strong>Chest</strong><br>£88</p>
+        <p><strong>Full Arms</strong><br>£113</p>
+    </div>
+    <div class="col-md-4">
+        <p><strong>Under Arms</strong><br>£38</p>
+        <p><strong>Bikini Line</strong><br>£38</p>
+        <p><strong>Upper Lip & Chin</strong><br>£40</p>
+        <p><strong>Chin & Jawline</strong><br>£50</p>
+    </div>
+</div>
                     <hr style="border: 1px solid #d9bf77; margin: 40px 0;">
 
                     <!-- Classic Beauty Offers Section -->
@@ -312,6 +356,7 @@
 	  
   </body>
 </html>
+
 
 
 

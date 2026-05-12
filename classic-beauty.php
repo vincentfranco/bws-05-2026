@@ -45,7 +45,7 @@
           "postalCode": "BN22 9QD"
         },
         "telephone": "+44 1323 507506",
-        "email": "info@beautywithchristina.co.uk",
+        "email": "bookings@beautywithchristina.co.uk",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 50.7707392,
@@ -56,7 +56,7 @@
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
       "specialOffers": "Indulge in our Classic Beauty Treatments, including manicures, pedicures, waxing, and more, for timeless self-care at Beauty With Christina.",
-      "image": "images/classic-beauty.jpg",
+      "image":\ "images/Classic-beauty\.jpeg",
       "url": "https://beautywithchristina.co.uk/classic-beauty.php"
     }
     </script>
@@ -236,6 +236,7 @@
     
   </body>
 </html>
+
 
 
 

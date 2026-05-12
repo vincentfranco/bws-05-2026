@@ -26,7 +26,7 @@
           "postalCode": "BN22 9QD"
         },
         "telephone": "+44 1323 507506",
-        "email": "info@beautywithchristina.co.uk",
+        "email": "bookings@beautywithchristina.co.uk",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 50.7707392,
@@ -37,7 +37,7 @@
       "areaServed": "Eastbourne and surrounding areas",
       "priceRange": "££",
       "specialOffers": "Transform your skin with the iS Clinical Fire & Ice Deluxe Facial for dramatic results.",
-      "image": "images/is-clinical-fire-and-ice-deluxe-facial-treatment.jpg",
+      "image": "images/is-clinical-fire-and-ice-deluxe-facial-treatment\.jpeg",
       "url": "https://beautywithchristina.co.uk/is-clinical-fire-ice-facial.php"
     }
     </script>
@@ -59,7 +59,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon\.png" type="image/x-icon">
 </head>
 <body>
     <?php include 'menu.php'; ?>
@@ -221,6 +221,7 @@
     <script src="js/main.js"></script>
 </body>
 </html>
+
 
 
 

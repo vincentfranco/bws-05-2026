@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
 
     <!-- Structured Data -->
     <script type="application/ld+json">
@@ -37,7 +37,7 @@
       "description": "Specialist in anti-ageing and body aesthetic treatments in Eastbourne.",
       "url": "https://beautywithchristina.co.uk",
       "telephone": "+44 1323 507506",
-      "email": "info@beautywithchristina.co.uk",
+      "email": "bookings@beautywithchristina.co.uk",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "35a Brasey Ave",
@@ -52,7 +52,7 @@
       },
       "openingHours": ["Mo-Fr 09:00-17:00", "Sa 10:00-14:00"],
       "priceRange": "££",
-      "image": "https://beautywithchristina.co.uk/images/beauty-with-christina.jpg",
+      "image": "https://beautywithchristina.co.uk/images/beauty-with-christina-logo-round.jpg",
       "areaServed": "Eastbourne and surrounding areas"
     }
     </script>
@@ -136,8 +136,8 @@
                         <img loading="lazy" src="images/Beauty_With_Christina_logo_Facials.svg" alt="Beauty with Christina Logo" class="custom-icon">
                     </div>
                     <div class="text mt-3">
-                        <a href="facials.php"><h3>Facials</h3></a>
-                        <p>Elevate your skin care with our exclusive facials, featuring the renowned CACI Non-Surgical and iS Clinical treatments. Experience a rejuvenating blend of advanced therapies that sculpt, refine, and illuminate your natural beauty, leaving you with a refreshed and radiant complexion. Pamper yourself with the ultimate in skin care luxury and let us help you achieve your best skin ever.</p>
+                        <a href="is-clinical-treatments.php"><h3>iS Clinical Facials</h3></a>
+                        <p>Elevate your skin care with our exclusive facial treatmnts, featuring the renowned iS Clinical treatments. Experience a rejuvenating blend of advanced therapies that sculpt, refine, and illuminate your natural beauty, leaving you with a refreshed and radiant complexion. Pamper yourself with the ultimate in skin care luxury and let us help you achieve your best skin ever.</p>
                     </div>
                 </div>
             </div>
@@ -307,6 +307,7 @@
 	    
   </body>
 </html>
+
 
 
 
