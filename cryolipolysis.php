@@ -105,9 +105,9 @@
                     <div class="title-wrapper">
                         <h1 class="mb-3 bread">Skin Tightening</h1>
                         <p class="breadcrumbs">
-                            <span class="mr-2"><a href="index.php">Home</a></span> 
-                            <span><a href="treatments.php">Treatments</a></span>
-                            <span>Skin Tightening</span>
+                            <span class="mr-2"><a href="index.php">Home</a></span>
+                            <span class="mr-2"><a href="treatments.php">Treatments</a></span>
+                            <span>Cryolipolysis</span>
                         </p>
                     </div>
                 </div>
