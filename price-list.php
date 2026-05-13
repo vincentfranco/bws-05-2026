@@ -183,24 +183,25 @@
 <!-- Laser Hair Removal Section -->
 <h3 class="mb-4 text-center">Laser Hair Removal</h3>
 <p class="text-center">(Patch test / consultation required)</p>
+<p class="text-center">(* prices may vary due to hair type)</p>
 <div class="row">
     <div class="col-md-4">
-        <p><strong>Full Leg</strong><br>£170</p>
-        <p><strong>Upper Legs</strong><br>£88</p>
-        <p><strong>Lower Legs</strong><br>£88</p>
-        <p><strong>Full Face & Neck</strong><br>£113</p>
+        <p><strong>Full Leg</strong><br>*£170</p>
+        <p><strong>Upper Legs</strong><br>*£88</p>
+        <p><strong>Lower Legs</strong><br>*£88</p>
+        <p><strong>Full Face & Neck</strong><br>*£113</p>
     </div>
     <div class="col-md-4">
-        <p><strong>Full Face</strong><br>£75</p>
-        <p><strong>Back & Shoulders</strong><br>£150</p>
-        <p><strong>Chest</strong><br>£88</p>
-        <p><strong>Full Arms</strong><br>£113</p>
+        <p><strong>Full Face</strong><br>*£75</p>
+        <p><strong>Back & Shoulders</strong><br>*£150</p>
+        <p><strong>Chest</strong><br>*£88</p>
+        <p><strong>Full Arms</strong><br>*£113</p>
     </div>
     <div class="col-md-4">
-        <p><strong>Under Arms</strong><br>£38</p>
-        <p><strong>Bikini Line</strong><br>£38</p>
-        <p><strong>Upper Lip & Chin</strong><br>£40</p>
-        <p><strong>Chin & Jawline</strong><br>£50</p>
+        <p><strong>Under Arms</strong><br>*£38</p>
+        <p><strong>Bikini Line</strong><br>*£38</p>
+        <p><strong>Upper Lip & Chin</strong><br>*£40</p>
+        <p><strong>Chin & Jawline</strong><br>*£50</p>
     </div>
 </div>
                     <hr style="border: 1px solid #d9bf77; margin: 40px 0;">

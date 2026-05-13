@@ -133,7 +133,7 @@
             <div class="treatment">
                 <h3 class="heading">CACI Non-Surgical Treatments</h3>
                 
-                <h3>The Future of Anti-Aging &amp; Skin Rejuvenation – No Needles, No Downtime!</h3>
+                <h3>Naturally Lifted, Firmer Skin — No Surgery, No Downtime</h3>
                 <p>CACI (Computer Aided Cosmetology Instrument) is a world-renowned brand specializing in non-surgical aesthetic treatments. Using advanced microcurrent technology, LED light therapy, and ultrasonic peeling, CACI treatments effectively lift, tone, and rejuvenate the skin, offering visible results without the need for invasive procedures.</p>
                 <p>Whether you’re looking to tighten facial contours, reduce wrinkles, clear acne, or improve skin hydration, CACI offers customized treatments to target your unique skincare needs.</p>
                 
@@ -145,6 +145,7 @@
                     <li>✔ Customizable treatments for all skin types and concerns</li>
                     <li>✔ Boosts collagen, hydrates the skin, and improves elasticity</li>
                 </ul>
+                <p>Most clients notice a visible lift and firmer jawline after just 6–10 sessions.</p>
             </div>
         </div>
     </div>
@@ -298,8 +299,14 @@
 
 
 
+    <section class="ftco-section ftco-no-pt">
+        <div class="container">
+            <p class="text-center"><em>Save when you bundle your CACI course with a relaxing massage. Speak to us about current membership and bundle offers.</em></p>
+        </div>
+    </section>
+
     <?php include 'footer.html'; ?>
-  
+
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>

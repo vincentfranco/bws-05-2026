@@ -131,7 +131,7 @@
                     <div class="img" style="background-image: url(images/gallery-1.jpg); height: 200px; background-size: cover; background-position: center;"></div>
                     <div class="text mt-4">
                         <h3 class="mb-4">CACI Non-Surgical Facelifting</h3>
-                        <p>Reveal a visibly lifted and rejuvenated look with this advanced, non-invasive treatment.</p>
+                        <p>Achieve a naturally lifted, firmer and more youthful appearance with CACI Non-Surgical Facelifting — visible results from the very first session, no needles and no downtime.</p>
                         <p><a href="caci-non-surgical-treatments.php" class="btn btn-white px-4 py-3">CACI <span class="ion-ios-arrow-round-forward"></span></a></p>
                     </div>
                 </div>
@@ -142,7 +142,7 @@
                     <div class="img" style="background-image: url(images/iSClinical.jpeg); height: 200px; background-size: cover; background-position: center;"></div>
                     <div class="text mt-4">
                         <h3 class="mb-4">iS Clinical® Facial Treatments</h3>
-                        <p>Rejuvenate your skin with our science-backed, tailor-made facials for radiant results.</p>
+                        <p>Rejuvenate and glow with iS Clinical's clinically proven facials — luxurious, results-driven treatments for brighter, smoother and healthier skin.</p>
                         <p><a href="is-clinical-treatments.php" class="btn btn-white px-4 py-3">IS-Clinical® <span class="ion-ios-arrow-round-forward"></span></a></p>
                     </div>
                 </div>
@@ -153,7 +153,7 @@
                     <div class="img" style="background-image: url(images/gallery-3.jpg); height: 200px; background-size: cover; background-position: center;"></div>
                     <div class="text mt-4">
                         <h3 class="mb-4">Laser Hair Removal</h3>
-                        <p>Achieve silky smooth skin with our precision-targeted, long-lasting hair removal solutions.</p>
+                        <p>Say goodbye to shaving and waxing. Enjoy long-lasting, virtually pain-free hair reduction with our advanced 3D Trilogyice laser system.</p>
                         <p><a href="laser-hair-removal.php" class="btn btn-white px-4 py-3">Laser Hair <span class="ion-ios-arrow-round-forward"></span></a></p>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                     <div class="img" style="background-image: url(images/body-aesthetic-courses.jpg); height: 200px; background-size: cover; background-position: center;"></div>
                     <div class="text mt-4">
                         <h3 class="mb-4">Body Contouring</h3>
-                        <p>Enhance your natural beauty with our cutting-edge, expertly designed aesthetic treatments.</p>
+                        <p>Sculpt and contour your body with non-surgical fat freezing, skin tightening and cellulite reduction — advanced treatments that deliver visible results.</p>
                         <p><a href="body-aesthetics.php" class="btn btn-white px-4 py-3">Aesthetics <span class="ion-ios-arrow-round-forward"></span></a></p>
                     </div>
                 </div>
@@ -175,7 +175,7 @@
                     <div class="img" style="background-image: url(images/gallery-5.jpg); height: 200px; background-size: cover; background-position: center;"></div>
                     <div class="text mt-4">
                         <h3 class="mb-4">Massage Therapy</h3>
-                        <p>Immerse yourself in ultimate relaxation and wellness with our bespoke massage therapy sessions.</p>
+                        <p>Melt away tension and leave feeling deeply relaxed with our luxurious Swedish and therapeutic massages.</p>
                         <p><a href="massage-therapy.php" class="btn btn-white px-4 py-3">Massage <span class="ion-ios-arrow-round-forward"></span></a></p>
                     </div>
                 </div>
@@ -186,7 +186,7 @@
                     <div class="img" style="background-image: url(images/AdobeStock_255904461_edited.jpg); height: 200px; background-size: cover; background-position: center;"></div>
                     <div class="text mt-4">
                         <h3 class="mb-4">Classic Beauty</h3>
-                        <p>Elevate your look with timeless beauty treatments that exude elegance and refinement.</p>
+                        <p>Manicures, pedicures, waxing and brow &amp; lash treatments — classic beauty services that leave you feeling polished and pampered.</p>
                         <p><a href="classic-beauty.php" class="btn btn-white px-4 py-3">Beauty <span class="ion-ios-arrow-round-forward"></span></a></p>
                     </div>
                 </div>
@@ -197,8 +197,14 @@
 </section>
 
 	
+  <section class="ftco-section ftco-no-pt">
+    <div class="container">
+        <p class="text-center"><em>Many of our treatments can be purchased as money-saving bundles or through our Massage Club membership. Please ask us about the current offers.</em></p>
+    </div>
+  </section>
+
   <!-- Footer -->
-  
+
 	<?php include 'footer.html'; ?>
 
  <!-- Include jQuery -->

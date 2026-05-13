@@ -148,9 +148,14 @@
             <!-- Text Section -->
             <div class="col-md-6 col-lg-6 order-md-last">
                 <h3 class="display-5 mb-3">Non-Surgical Fat Reduction Treatments</h3>
-              		<p class="lead"> Non-surgical fat reduction offers a safe, effective way to contour your body without the need for surgery or downtime.&nbsp;</p>
-              			<p class="lead">Cryolipolysis, radiofrequency skin tightening, and 3D dermology treatments target stubborn fat, improve skin elasticity, and enhance body confidence.&nbsp;</p>
-                		<p class="lead">Designed for those seeking visible results with minimal disruption to daily life, non-surgical fat reduction helps sculpt and refine your shape for a more toned and contoured appearance.</p>
+              		<p class="lead">Non-surgical body contouring that really works. Cryolipolysis (fat freezing), Radio Frequency skin tightening and Dermology target stubborn fat, reduce cellulite and firm the skin — helping you feel more confident and comfortable in your body.</p>
+					<h4 class="mt-3 mb-2">Which treatment is right for you?</h4>
+					<ul>
+						<li>Want to lose stubborn fat? → Cryolipolysis</li>
+						<li>Want tighter, firmer skin? → RF Skin Tightening</li>
+						<li>Want smoother cellulite? → Dermology</li>
+					</ul>
+					<p><em>Combine Body Aesthetics treatments with massage and enjoy significant savings through our membership and bundle deals. Just ask us for details.</em></p>
 					<p><a href="body-aesthetic-courses.php" target="_blank" class="btn btn-primary p-3 px-5 py-4 mr-md-2">Body Aesthetic Courses</a></p>
             </div>
         </div>
@@ -223,7 +228,7 @@
 				<p><strong>Post-Treatment:</strong> Mild redness or bruising may occur; it is advisable to continue hydrating and engage in light physical activity to support lymphatic drainage.</p>
 			</div>
 			<div class="col-lg-4 col-md-4 col-12 order-md-last">
-				<img loading="lazy" src="images/body-aesthetics.jpg" alt="3D Dermology treatment for cellulite reduction and skin tightening" class="img-fluid rounded shadow-lg">
+				<img loading="lazy" src="images/Dermology Head.jpg" alt="3D Dermology treatment for cellulite reduction and skin tightening" class="img-fluid rounded shadow-lg">
 				<br>
 						<br>
 						<br>

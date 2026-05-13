@@ -161,15 +161,16 @@
                 <div class="col-lg-6">
                     <h3>Swedish Massage</h3>
                     <p>
-                        Experience ultimate relaxation with our Swedish massage. This popular treatment uses gentle, flowing techniques to reduce muscle tension, improve circulation, and promote overall well-being. Perfect for relieving stress and rejuvenating your body.
+                        Melt away tension with our luxurious full-body Swedish massage. Long, flowing strokes ease muscle tightness, boost circulation and leave you feeling deeply relaxed and re-energised.
                     </p>
                     <p><strong>Key Benefits:</strong></p>
                     <ul>
                         <li>Relieves muscle tension and stiffness</li>
                         <li>Enhances blood circulation</li>
-                        <li>Promotes relaxation and stress relief</li>
-                        <li>Improves overall flexibility and well-being</li>
+                        <li>Promotes deep relaxation and stress relief</li>
+                        <li>Improves flexibility and overall well-being</li>
                     </ul>
+                    <p class="mt-3"><em>Join our Massage Club and receive 6 massages for the price of 5 — available with monthly payments. Ask us for details.</em></p>
                 </div>
             </div>
         </div>

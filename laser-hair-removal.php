@@ -167,7 +167,7 @@
             <h2 class="display-6 mb-4">Courses &amp; Top-Ups</h2>
             <div class="row align-items-center mb-4">
                 <div class="col-lg-8 col-md-8 col-12 order-md-first">
-                    <p>Laser hair removal typically involves an initial series of 6 to 8 sessions, designed to progressively reduce hair density and thickness. Followng your consultation&nbsp; you will be given your laser hair removal treatment proposal to address your needs.&nbsp;To maintain long-lasting results and keep regrowth minimal, top-up treatments every 6 to 12 months are recommended.</p>
+                    <p>Most clients need 6–8 sessions for permanent hair reduction, followed by maintenance every 6–12 months. After your consultation we will create a personalised treatment plan tailored to your hair type and goals.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
                     <img loading="lazy" src="images/hair-removal.jpg" alt="Laser Hair Removal Course Treatment" class="img-fluid rounded shadow-lg">

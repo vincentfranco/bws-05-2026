@@ -155,6 +155,7 @@
 				<div class="col-lg-8 col-md-8 col-12 order-md-first">
 					<p class="excerpt">A powerful, resurfacing facial that combines the benefits of both heat and cooling therapies to encourage cell renewal and collagen production. Often called the "Red Carpet Facial" for its ability to deliver immediate results with no downtime.</p>
 					<p><strong>How It Works:</strong> A two-step process using a warming glycolic mask followed by a soothing hydration mask to refine and refresh the skin.</p>
+					<p>Leave with instantly brighter, smoother, red-carpet-ready skin and a radiant glow that lasts days.</p>
 					<p><strong>Duration:</strong> 45 minutes</p>
 					<p><strong>Pre-Treatment:</strong> Avoid retinol and exfoliating treatments for 48 hours before.</p>
 					<p><strong>Post-Treatment:</strong> Mild redness may occur; hydration and SPF use are highly recommended.</p>
@@ -176,23 +177,23 @@
 						<p><strong>Post-Treatment:</strong> Skin will feel refreshed and smoother; avoid heavy makeup for a few hours.</p>
 					</div>
 					<div class="col-lg-4 col-md-4 col-12 order-md-last">
-						<img loading="lazy" src="images/is-clinical-foaming-enzyme-treatment.jpg" alt="Foaming Enzyme Treatment by iS CLINICAL" class="img-fluid rounded shadow-lg">
+						<img loading="lazy" src="images/is-clinical-foaming-enzyme-treatment.jpeg" alt="Foaming Enzyme Treatment by iS CLINICAL" class="img-fluid rounded shadow-lg">
 					</div>
 				</div>
 			</div>
 
 			<div class="treatment mt-5">
-				<h2 class="display-6 mb-4">Harmony Facial</h2>
+				<h2 class="display-6 mb-4">Harmony Soothing Facial</h2>
 				<div class="row align-items-center mb-4">
 					<div class="col-lg-8 col-md-8 col-12 order-md-first">
-						<p class="excerpt">This Facial is also called the Cancer Care Facial and is a  deeply calming and nourishing treatment designed for sensitive, inflamed, or post-procedure skin. It helps restore hydration and strengthen the skin barrier while reducing redness.</p>
+						<p class="excerpt">A deeply calming and nourishing treatment designed for sensitive, inflamed, or post-procedure skin. It helps restore hydration and strengthen the skin barrier while reducing redness.</p>
 						<p><strong>How It Works:</strong> A combination of soothing botanical extracts and iS CLINICAL’s hydrating serums promote skin recovery and relaxation.</p>
 						<p><strong>Duration:</strong> 40 minutes</p>
 						<p><strong>Pre-Treatment:</strong> No special preparation required.</p>
 						<p><strong>Post-Treatment:</strong> Expect a soothed, hydrated complexion; continue using gentle, calming skincare.</p>
 				  </div>
 					<div class="col-lg-4 col-md-4 col-12 order-md-last">
-						<img loading="lazy" src="images/is-clinical-harmony-facial.jpg" alt="Harmony Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
+						<img loading="lazy" src="images/is-clinical-harmony-facial.jpeg" alt="Harmony Facial by iS CLINICAL" class="img-fluid rounded shadow-lg">
 					</div>
 				</div>
 			</div>
@@ -239,6 +240,12 @@
 
 		
 	  
+    <section class="ftco-section ftco-no-pt">
+        <div class="container">
+            <p class="text-center"><em>Enhance your results by combining iS Clinical facials with massage therapy in one of our special bundles. Ask in salon for the latest offers.</em></p>
+        </div>
+    </section>
+
  <?php include 'footer.html'; ?>
    <!-- Include jQuery -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

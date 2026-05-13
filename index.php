@@ -81,7 +81,7 @@
             <h1>Beauty with Christina</h1>
             <div class="row justify-content-center">
 	            <div class="col-md-7 mb-3">
-            	  <h2>Specialising in Anti-Ageing and Body Aesthetic Treatments</h2>
+            	  <h2>Luxury Non-Surgical Anti-Ageing &amp; Body Contouring Treatments in Eastbourne</h2>
                 </div>
 	          </div>
 			  <p>
@@ -98,8 +98,9 @@
         <div class="row justify-content-center">
             <div class="col-md-10 text-center intro-content">
                 <h3 class="mb-4">
-                    The products and treatments we offer are backed by intensive research and development, and help men and women of all ages feel good about their bodies and the skin they were born with.
+                    Our advanced treatments and skincare are backed by clinical research and are chosen to help you feel confident and comfortable in your own skin — whether you want to look refreshed, sculpted, or simply more radiant.
                 </h3>
+                <p class="mt-3"><em>Ask us about our Massage Club and treatment bundles for excellent savings.</em></p>
             </div>
         </div>
     </div>
@@ -126,7 +127,7 @@
                     </div>
                     <div class="text mt-3">
                         <a href="body-contouring.php"><h3>Body Aesthetics</h3></a>
-                        <p>Enhance your body with our comprehensive Body Aesthetics treatments, featuring 3D Lipo Cryolipolysis, cavitation, radio frequency fat melting, and dermology. Utilizing the advanced technology of 3D Lipo, our treatments are designed to target and reduce stubborn fat, sculpting your body to perfection. Invest in a course today and unlock a new level of confidence and well-being.</p>
+                        <p>Sculpt, tighten and contour your body with advanced non-surgical treatments including Cryolipolysis (fat freezing), Radio Frequency skin tightening and Dermology. Using 3D Lipo technology, these treatments target stubborn fat, reduce cellulite and improve skin firmness — helping you feel more confident in your own skin.</p>
                     </div>
                 </div>
             </div>
@@ -137,7 +138,7 @@
                     </div>
                     <div class="text mt-3">
                         <a href="is-clinical-treatments.php"><h3>iS Clinical Facials</h3></a>
-                        <p>Elevate your skin care with our exclusive facial treatmnts, featuring the renowned iS Clinical treatments. Experience a rejuvenating blend of advanced therapies that sculpt, refine, and illuminate your natural beauty, leaving you with a refreshed and radiant complexion. Pamper yourself with the ultimate in skin care luxury and let us help you achieve your best skin ever.</p>
+                        <p>Experience the power of iS Clinical with luxurious, results-driven facials. From the famous Fire &amp; Ice Red Carpet Facial to deeply hydrating and resurfacing treatments — achieve visibly brighter, smoother and healthier skin with clinical-grade skincare.</p>
                     </div>
                 </div>
             </div>

@@ -144,7 +144,7 @@
             <div class="row align-items-center mb-4">
               <div class="col-lg-8 col-md-8 col-12 order-md-first">
                 <h3 class="fw-bold">Manicure</h3>
-                  <p>Our professional manicure shapes and nourishes nails while softening cuticles. It includes a gentle hand massage and a perfect polish application, leaving your hands well-groomed and elegant.</p>
+                  <p>Our signature manicure includes nail shaping, cuticle care, a relaxing hand massage and your choice of polish — leaving your hands soft, groomed and elegant.</p>
                 </div>
                 <div class="col-lg-4 col-md-4 col-12 order-md-last">
                     <img loading="lazy" src="images/manicures-pedicures.jpg" alt="Luxury manicure and pedicure treatment at Beauty With Christina" class="img-fluid rounded shadow-lg">
