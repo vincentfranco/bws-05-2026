@@ -222,7 +222,8 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
-  -webkit-appearance: button; }
+  -webkit-appearance: button;
+  appearance: button; }
 
 button:not(:disabled),
 [type="button"]:not(:disabled),
@@ -247,7 +248,8 @@ input[type="date"],
 input[type="time"],
 input[type="datetime-local"],
 input[type="month"] {
-  -webkit-appearance: listbox; }
+  -webkit-appearance: listbox;
+  appearance: listbox; }
 
 textarea {
   overflow: auto;
@@ -279,7 +281,8 @@ progress {
 
 [type="search"] {
   outline-offset: -2px;
-  -webkit-appearance: none; }
+  -webkit-appearance: none;
+  appearance: none; }
 
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
@@ -9064,6 +9067,7 @@ textarea.form-control {
 .mfp-with-zoom.mfp-bg {
   opacity: 0;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
@@ -10199,20 +10203,20 @@ textarea.form-control {
 
 /* Notification Box Styles */
 /*.notification-box {
-    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
-    border: 2px solid #ff6347; /* Tomato color border */
-    color: #333; /* Dark text color */
-    font-size: 1.2rem; /* Larger font size */
-    text-align: center; /* Center text alignment */
-    padding: 10px 20px; /* Padding around the text */
-    border-radius: 8px; /* Rounded corners */
-    position: fixed; /* Fixed position at the top */
-    top: 75px; /* 10px from the top */
-    left: 50%; /* Center horizontally */
-    transform: translateX(-50%); /* Center horizontally */
-    z-index: 1000; /* Ensure it appears on top of other elements */
-    width: auto; /* Auto width based on content */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 2px solid #ff6347;
+    color: #333;
+    font-size: 1.2rem;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 8px;
+    position: fixed;
+    top: 75px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+    width: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }*/
 
 /* Add some spacing so the notification doesn't overlap content */
@@ -10257,7 +10261,7 @@ body {
 }
 
 /* Enhanced Typography */
-h1, h2,{
+h1, h2 {
     color: #d9bf77;
     font-family: 'Open Sans', sans-serif;
 }
@@ -10463,4 +10467,111 @@ p {
         text-align: center;
         padding-bottom: 25px; /* Space between image and text */
     }
+}
+/* =============================================
+BEAUTY WITH CHRISTINA - RESPONSIVE OVERRIDES
+Added at the end of your existing CSS file
+Preserves all original colours, fonts & animations
+============================================= */
+
+/* 1. Fix mobile horizontal shifting & perfect centering */
+html, body {
+overflow-x: hidden; /* Prevents left/right push on scroll */
+}
+
+.container, .container-fluid {
+margin-left: auto !important;
+margin-right: auto !important;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+/* Stronger centering on very small screens */
+@media (max-width: 576px) {
+.container, .container-fluid {
+padding-left: 12px;
+padding-right: 12px;
+}
+}
+
+/* 2. Improved Typography & Readability */
+body {
+line-height: 1.75; /* More comfortable reading */
+}
+
+h1, h2, h3, h4, h5, h6 {
+margin-bottom: 1.25rem;
+line-height: 1.35;
+}
+
+/* Responsive text scaling */
+@media (max-width: 480px) {
+h1 { font-size: 2.1rem !important; }
+h2 { font-size: 1.75rem !important; }
+h3 { font-size: 1.45rem !important; }
+p, li, .lead { font-size: 1.05rem !important; }
+}
+
+/* 3. Better Card & Content Spacing */
+.card, .service-card, .treatment-card, .row > div {
+margin-bottom: 2rem;
+}
+
+@media (max-width: 768px) {
+.card, .service-card, .treatment-card {
+padding: 1.75rem 1.25rem !important;
+margin-bottom: 1.75rem;
+}
+}
+
+/* 4. Full-width & Touch-friendly Buttons on Mobile */
+.btn, .btn-primary, .btn-secondary {
+min-height: 52px;
+display: inline-flex;
+align-items: center;
+justify-content: center;
+}
+
+@media (max-width: 480px) {
+.btn, .btn-primary, .btn-secondary {
+width: 100% !important;
+margin-bottom: 0.8rem;
+padding: 16px 20px !important;
+}
+}
+
+/* 5. Navigation & Sticky Header */
+.navbar {
+position: sticky;
+top: 0;
+z-index: 1030;
+}
+
+/* 6. Hero & Section Improvements */
+.hero, .section-hero {
+padding-top: 4.5rem;
+padding-bottom: 4rem;
+}
+
+@media (max-width: 480px) {
+.hero, .section-hero {
+padding-top: 3rem;
+padding-bottom: 2.5rem;
+}
+}
+
+/* 7. Final Polish */
+img {
+max-width: 100%;
+height: auto;
+}
+
+:focus {
+outline: 3px solid #e8a0c0; /* Soft pink focus ring – matches your theme */
+}
+
+/* Optional: Gentle lift on cards (keeps your existing animations) */
+.card:hover, .service-card:hover, .treatment-card:hover {
+transform: translateY(-8px);
+box-shadow: 0 10px 25px rgba(0,0,0,0.1) !important;
 }
